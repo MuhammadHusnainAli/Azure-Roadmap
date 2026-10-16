@@ -188,7 +188,7 @@ Knowing which portal owns a task is part of being fluent in the Microsoft ecosys
 ## Design decisions and trade-offs
 
 - **Portal changes cause drift.** If a resource is managed by IaC, a portal edit will be silently reverted or will make the next deployment fail. In production, give most people Reader in the portal and make changes through pipelines.
-- **Cloud Shell vs local tooling.** Cloud Shell is perfect for a locked-down laptop or a quick fix. For daily work, local tools in a dev container or Dev Box are faster and version-pinned.
+- **Cloud Shell vs local tooling.** Cloud Shell is perfect for a locked-down laptop or a quick fix. For daily work, local tools in a dev container or a cloud PC are faster and version-pinned.
 - **Shared dashboards are resources.** Put them in a resource group, define them as code, and grant access with RBAC.
 - **Copilot is an accelerator, not an authority.** Use it to draft; verify before you apply.
 

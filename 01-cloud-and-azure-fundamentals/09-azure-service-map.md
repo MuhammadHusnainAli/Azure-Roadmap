@@ -246,7 +246,7 @@ This is the centre of the roadmap. The names changed a lot in 2025; former names
 | **Bicep, Terraform, Azure Developer CLI** | Infrastructure as code and app deployment |
 | **Azure Container Registry** | Private container image registry |
 | **Azure App Configuration** | Central configuration and feature flags |
-| **Microsoft Dev Box, Deployment Environments** | Self-service developer workstations and environments |
+| **Windows 365, Deployment Environments** | Self-service developer workstations and environments (Microsoft Dev Box is in maintenance mode) |
 | **Azure App Testing, Chaos Studio** | Load, end-to-end and resilience testing |
 
 ## Resilience and migration → topics 28, 30

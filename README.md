@@ -8,7 +8,17 @@ A complete, structured learning roadmap for Microsoft Azure, built for three rol
 
 It covers the whole Azure platform as it stands in **October 2026**, with the deepest coverage on AI: Microsoft Foundry, Foundry Models, Azure AI Search and Foundry IQ, Foundry Agent Service, agent frameworks and protocols, evaluation, and AI governance.
 
-> **Status:** the topic tree is defined in [Roadmap.md](Roadmap.md). Topic folders and subtopic files are the next step and do not exist yet.
+> **Status:** the topic tree is defined in [Roadmap.md](Roadmap.md). Topic folders are being written one at a time.
+>
+> | Topic | State |
+> |---|---|
+> | [01 · Cloud and Azure Fundamentals](01-cloud-and-azure-fundamentals/README.md) | Written (9 of 9 subtopics) |
+> | [02 · Identity and Access with Microsoft Entra](02-identity-and-access/README.md) | Written (11 of 11 subtopics) |
+> | [03 · Governance and Landing Zones](03-governance-and-landing-zones/README.md) | Written (10 of 10 subtopics) |
+> | [04 · Tooling and Infrastructure as Code](04-tooling-and-infrastructure-as-code/README.md) | Written (10 of 10 subtopics) |
+> | [05 · Networking](05-networking/README.md) | Written (18 of 18 subtopics) |
+> | [06 · Compute](06-compute/README.md) | Written (12 of 12 subtopics) |
+> | 07 – 38 | Not started |
 
 ---
 

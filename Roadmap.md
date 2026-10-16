@@ -104,7 +104,7 @@ Strategy, Plan, Ready, Adopt, Govern, Secure, Manage, plus the AI adoption scena
 Hierarchy patterns, subscription vending, subscription democratisation.
 
 ### 03 · Azure Landing Zones
-Platform vs application landing zones, design areas, the ALZ accelerators (Bicep and Terraform).
+Platform and workload landing zones, design principles and design areas, the accelerators (portal, Bicep, Terraform).
 
 ### 04 · AI Landing Zones
 The AI application landing zone: where Foundry, search, gateways and data sit in an enterprise estate.
@@ -255,7 +255,7 @@ Pools, jobs, tasks, autoscale formulas, rendering and simulation workloads.
 CycleCloud, HPC VM series, Slurm, Managed Lustre.
 
 ### 10 · Azure Virtual Desktop and Windows 365
-Host pools, FSLogix, scaling plans, AVD Hybrid, Dev Box.
+Host pools, FSLogix, scaling plans, AVD Hybrid, Windows 365 Cloud PCs; Dev Box (maintenance mode).
 
 ### 11 · Azure VMware Solution and Partner Clouds
 AVS, Nutanix Cloud Clusters, Oracle Database@Azure, SAP on Azure.
@@ -1055,7 +1055,7 @@ Blue-green, canary, feature flags, progressive exposure.
 Azure App Testing (load testing, Playwright workspaces), Chaos Studio.
 
 ### 09 · Developer Platforms
-Dev Box, Deployment Environments, DevTest Labs, golden paths.
+Windows 365 developer Cloud PCs (Dev Box is in maintenance mode), Deployment Environments, DevTest Labs, golden paths.
 
 ### 10 · Platform Engineering
 Internal developer platforms, self-service, paved roads, measuring developer experience.
