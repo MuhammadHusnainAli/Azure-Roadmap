@@ -18,7 +18,11 @@ It covers the whole Azure platform as it stands in **October 2026**, with the de
 > | [04 · Tooling and Infrastructure as Code](04-tooling-and-infrastructure-as-code/README.md) | Written (10 of 10 subtopics) |
 > | [05 · Networking](05-networking/README.md) | Written (18 of 18 subtopics) |
 > | [06 · Compute](06-compute/README.md) | Written (12 of 12 subtopics) |
-> | 07 – 38 | Not started |
+> | [07 · Containers and Kubernetes](07-containers-and-kubernetes/README.md) | Written (13 of 13 subtopics) |
+> | [08 · Storage](08-storage/README.md) | Written (11 of 11 subtopics) |
+> | [09 · Databases](09-databases/README.md) | Written (13 of 13 subtopics) |
+> | [10 · Application Platform](10-application-platform/README.md) | Written (11 of 11 subtopics) |
+> | 11 – 38 | Not started |
 
 ---
 

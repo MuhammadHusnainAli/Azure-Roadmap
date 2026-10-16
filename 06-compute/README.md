@@ -60,4 +60,4 @@ Compute is where code runs. This topic covers infrastructure compute: virtual ma
 
 ## Next
 
-07 · Containers and Kubernetes (see [Roadmap.md](../Roadmap.md))
+[07 · Containers and Kubernetes](../07-containers-and-kubernetes/README.md)
