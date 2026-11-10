@@ -1,7 +1,5 @@
 # Azure Lighthouse and Managed Applications
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E – A ○ C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Consultants and partners manage Azure environments they do not own. Software vendors ship solutions into customers' subscriptions. Large groups run several tenants. The naive ways to do this, guest accounts in every customer tenant or shared credentials, do not scale and fail security reviews. Azure Lighthouse and Managed Applications are the two platform mechanisms built for it. If you work at a partner, this is how your company should be accessing customer estates.

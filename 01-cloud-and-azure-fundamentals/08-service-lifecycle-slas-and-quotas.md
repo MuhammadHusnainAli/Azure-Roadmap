@@ -1,7 +1,5 @@
 # Service Lifecycle, SLAs and Quotas
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Three questions decide whether a design can actually ship: *Is this feature supported for production? What availability can we promise? Can we get the capacity?* In AI projects all three bite harder than usual. New capabilities arrive in preview, model versions retire on a schedule, and model quota is often the real constraint on launch dates.

@@ -1,7 +1,5 @@
 # AI Solution Patterns
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Most generative AI solutions are variations of a small number of patterns: **chat**, **retrieval-augmented generation (RAG)**, **extraction**, **classification**, **summarisation and generation**, **copilots**, **single agents** and **multi-agent systems**. Naming the pattern early tells you what data, controls, evaluation and cost profile the solution needs, and stops teams from building an autonomous multi-agent system when a well-designed RAG app would do. This file is the map that topics 16–24 fill in.

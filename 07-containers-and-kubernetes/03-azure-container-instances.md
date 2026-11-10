@@ -1,7 +1,5 @@
 # Azure Container Instances
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Container Instances (ACI) runs a container in seconds with no cluster, no platform and no scaling logic. It is the lowest-level container service in Azure, billed per second, and it underpins other services such as AKS virtual nodes. Knowing what ACI does well, and where it stops, keeps teams from building an orchestrator on top of it, or from standing up AKS for a nightly script.

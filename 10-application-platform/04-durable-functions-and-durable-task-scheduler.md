@@ -1,7 +1,5 @@
 # Durable Functions and Durable Task Scheduler
 
-> Topic: 10 · Application Platform · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Real business processes and agent tasks are long-running: they call several services, wait for people to approve things, run steps in parallel, and must survive restarts. Writing that with queues, timers and state tables by hand is error-prone. **Durable Functions** lets you write workflows as ordinary code that the framework checkpoints and replays reliably. The **Durable Task Scheduler** is a managed back end that makes it faster and easier to operate, and the Durable Task SDKs bring the same model to Container Apps and AKS. This is now a common foundation for durable, human-in-the-loop AI agents.

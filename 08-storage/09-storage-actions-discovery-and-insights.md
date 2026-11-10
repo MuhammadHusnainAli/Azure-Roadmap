@@ -1,7 +1,5 @@
 # Storage Actions, Discovery and Insights
 
-> Topic: 08 · Storage · Tracks: E – A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Large organisations have hundreds of storage accounts holding billions of objects. Questions such as "how much data do we have, where, and how much of it is cold?", "which accounts still allow shared key access?" and "can we retag or re-tier ten million blobs?" cannot be answered by scripts that list every blob. Azure provides estate-wide visibility (Storage Discovery and Storage Insights) and serverless data management at scale (Storage Actions). These are the tools behind storage cost optimisation and governance work, often led by consultants and architects.

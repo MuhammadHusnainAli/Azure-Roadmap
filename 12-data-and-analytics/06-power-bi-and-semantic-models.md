@@ -1,7 +1,5 @@
 # Power BI and Semantic Models
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Power BI is how most organisations consume data, and the **semantic model** under a report is the governed business logic: measures, relationships, definitions of "revenue" and "active customer". That logic is now also **knowledge for AI**. Copilot in Power BI, Fabric data agents and Fabric IQ ask questions through semantic models. A well-modelled semantic model makes AI answers correct, and a messy one makes them confidently wrong. Consultants are asked about Power BI licensing, Direct Lake and embedding constantly.

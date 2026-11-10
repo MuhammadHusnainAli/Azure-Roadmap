@@ -1,7 +1,5 @@
 # Azure NetApp Files and Elastic SAN
 
-> Topic: 08 · Storage · Tracks: E – A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Some workloads need more than Azure Files or managed disks can give: SAP HANA, large Oracle databases, high-performance Linux file workloads, VMware datastores, or hundreds of VMs sharing a pool of block storage. Azure NetApp Files brings enterprise NAS performance and features as a first-party Azure service; Azure Elastic SAN brings a cloud-native storage area network. Architects and consultants meet these in migration and modernisation conversations, where picking the right one can make or break performance and cost.

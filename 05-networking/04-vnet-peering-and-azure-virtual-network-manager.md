@@ -1,7 +1,5 @@
 # VNet Peering and Azure Virtual Network Manager
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Workloads live in their own virtual networks, and something has to connect them. Peering is the basic link. Hub-and-spoke is the topology nearly every organisation builds from it. Azure Virtual Network Manager is how that topology, and the security rules that must apply everywhere, stay consistent once there are more than a handful of networks.

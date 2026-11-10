@@ -1,7 +1,5 @@
 # AKS Networking
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Networking is where most AKS designs go wrong: IP exhaustion, blocked egress, broken private DNS, or an ingress layer nobody can upgrade. Choices made at cluster creation, especially the network plugin, are hard or impossible to change later. An architect must choose the IP model, ingress, egress and policy approach deliberately, and fit them into the hub-and-spoke design from [topic 05](../05-networking/README.md).

@@ -1,7 +1,5 @@
 # Blob Storage
 
-> Topic: 08 · Storage · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Blob Storage is Azure's object store and probably its most widely used service. It holds web content, user uploads, backups, logs, data lake files, training sets, model artefacts, and the source documents behind most RAG systems. Engineers need to read and write it efficiently and securely; architects need to design tiering, retention and protection so that data is cheap to keep and hard to lose.

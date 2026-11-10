@@ -1,7 +1,5 @@
 # Azure CLI
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The Azure CLI (`az`) is the quickest way to ask Azure a question or make a change, and it runs the same on Windows, macOS, Linux, Cloud Shell and in pipelines. Every lab in this roadmap uses it. Fluency here is mostly three things: knowing how commands are organised, shaping output with queries, and authenticating correctly when no human is present.

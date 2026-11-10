@@ -1,7 +1,5 @@
 # Images and VM Image Builder
 
-> Topic: 06 · Compute · Tracks: E ○ A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Every VM, scale set instance and many AKS and Batch nodes start from an image. If that image is a marketplace default plus a long start-up script, provisioning is slow and fragile, and every instance may differ slightly. A versioned "golden" image built by a pipeline gives fast, identical, already-hardened instances. For GPU workloads the case is stronger: drivers, CUDA libraries and multi-gigabyte frameworks belong in the image, not in a boot script.

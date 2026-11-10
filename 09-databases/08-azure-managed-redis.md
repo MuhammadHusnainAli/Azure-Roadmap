@@ -1,7 +1,5 @@
 # Azure Managed Redis
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Redis is the standard in-memory data store for caching, sessions, rate limiting, leaderboards, queues and pub/sub. In AI systems it also serves as a **semantic cache** for LLM responses and as fast short-term memory for agents. Azure Managed Redis is Microsoft's current Redis service, built on Redis Enterprise software, and is the migration target for the older Azure Cache for Redis, which has announced retirement dates. Engineers use it daily; architects and consultants need to plan the migration.

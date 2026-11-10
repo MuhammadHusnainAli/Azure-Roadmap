@@ -1,7 +1,5 @@
 # Accounts, Subscriptions and Offers
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 How an organisation buys Azure decides who can create subscriptions, where invoices go, which discounts apply and who you have to ask for a quota increase. Engineers mostly need enough to get a subscription and understand its limits. Architects need it for subscription design. Consultants need it on day one of an engagement, because "how do you buy Azure today?" shapes the commercial side of every proposal.

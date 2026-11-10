@@ -1,7 +1,5 @@
 # Private Link and Private Endpoints
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure PaaS services are reachable on public endpoints by default. Private Link gives a service a private IP address inside your network instead, so traffic never leaves the Microsoft backbone and the public endpoint can be switched off. It is the foundation of every network-isolated design, and it is non-negotiable for AI workloads that handle internal data: Foundry, AI Search, Storage, Cosmos DB and Key Vault all need it. Most failed private deployments fail on DNS, so this file and the next go together.

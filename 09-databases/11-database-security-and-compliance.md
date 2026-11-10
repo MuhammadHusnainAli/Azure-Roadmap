@@ -1,7 +1,5 @@
 # Database Security and Compliance
 
-> Topic: 09 · Databases · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Databases hold the data attackers want and regulators care about: customer records, financial transactions, health data, and increasingly the conversation logs and memories of AI systems. Azure databases provide strong controls for identity, network isolation, encryption, auditing, tamper evidence and threat detection, but most are configuration choices. Architects must design them in, engineers must use them, and consultants must be able to map them to compliance requirements.

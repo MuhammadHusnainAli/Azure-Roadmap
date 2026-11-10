@@ -1,7 +1,5 @@
 # Integration Architecture Patterns
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 The services in this topic are building blocks. Patterns are how you combine them into systems that keep working when networks fail, messages are duplicated, and services are slow. A few patterns come up again and again in Azure designs and architecture interviews: **event-driven architecture**, **competing consumers**, **queue-based load levelling**, **claim check**, **transactional outbox**, **saga** and **idempotent receiver**. They matter even more for AI systems, where calls are slow, rate-limited, expensive and often long-running.

@@ -1,7 +1,5 @@
 # AI Use Case Qualification
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 The most expensive AI mistake is building the wrong thing. Many proofs of concept never reach production because the use case had no clear value, the data wasn't ready, the risk was unacceptable, or a simpler non-AI solution would have worked. **Qualification** is the structured check, done before building, of whether a problem is a good AI problem: is it feasible, valuable, safe and supported by data? Consultants run it in discovery workshops; architects use it to scope; engineers use it to push back on unrealistic requirements.
@@ -168,5 +166,5 @@ Dependencies & integrations · Owner after go-live · Decision: go / redesign / 
 - [AI strategy: identify use cases (CAF)](https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/ai/strategy)
 - [Microsoft Responsible AI Standard and impact assessment](https://www.microsoft.com/ai/principles-and-approach)
 - [Responsible AI in Microsoft Foundry](https://learn.microsoft.com/azure/foundry/responsible-use-of-ai-overview)
-- [Evaluate generative AI apps in Foundry](https://learn.microsoft.com/azure/foundry/concepts/evaluation-approach-gen-ai)
+- [Observability and evaluation in Foundry](https://learn.microsoft.com/azure/foundry/concepts/observability)
 - [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/)

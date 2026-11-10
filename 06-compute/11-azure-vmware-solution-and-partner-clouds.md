@@ -1,7 +1,5 @@
 # Azure VMware Solution and Partner Clouds
 
-> Topic: 06 · Compute · Tracks: E – A ○ C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Not everything moves to Azure by being rebuilt on Azure services. Large enterprises run VMware estates with thousands of VMs, Oracle databases on Exadata, SAP landscapes and Nutanix clusters, and they often cannot or will not re-platform them on the timescale the business wants. Azure hosts these stacks natively so they can move as they are, sit next to Azure services, and be modernised later. Engineers rarely build these; consultants and architects are regularly asked about them, usually in a migration or data centre exit conversation, and increasingly because the data an AI project needs lives there.

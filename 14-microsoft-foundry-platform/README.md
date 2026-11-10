@@ -65,4 +65,4 @@ Microsoft Foundry is Azure's platform for building, deploying and governing AI a
 
 ## Next
 
-15 · Foundry Models and Azure OpenAI (see [Roadmap.md](../Roadmap.md))
+[15 · Foundry Models and Azure OpenAI](../15-foundry-models-and-azure-openai/README.md)

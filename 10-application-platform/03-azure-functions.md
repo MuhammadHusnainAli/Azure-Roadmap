@@ -1,7 +1,5 @@
 # Azure Functions
 
-> Topic: 10 · Application Platform · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Functions runs small pieces of code in response to events: HTTP requests, queue messages, blob uploads, timers, database changes. You write the handler; the platform handles servers, scaling and integration plumbing. Functions is the glue of many Azure solutions and a natural host for AI tasks such as document ingestion, embedding pipelines, agent tools and MCP servers. Choosing the right hosting plan and understanding scaling and cold start are what make it work in production.

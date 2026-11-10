@@ -1,7 +1,5 @@
 # Azure DocumentDB
 
-> Topic: 09 · Databases · Tracks: E ○ A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 MongoDB is one of the most widely used document databases, and many applications arrive at Azure built on it. **Azure DocumentDB** (formerly **Azure Cosmos DB for MongoDB vCore**) is a fully managed, MongoDB-compatible service built on the open-source DocumentDB engine. It gives MongoDB applications a familiar, vCore-priced home on Azure with vector search for AI, without the request-unit model of Cosmos DB. Knowing when to choose it, and how it differs from Cosmos DB for MongoDB (RU), avoids a common source of confusion.

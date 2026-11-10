@@ -1,7 +1,5 @@
 # Data Platform for AI Readiness
 
-> Topic: 12 · Data and Analytics · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Most failed AI projects are data projects in disguise. A RAG assistant gives outdated answers because the index refreshes monthly. An agent leaks salaries because the source library had "Everyone" permissions. A fine-tuned model learns from mislabelled examples. **AI readiness** is the discipline of making data fit for a specific AI use: findable, high quality, fresh, permissioned, documented and legally usable. Consultants assess it during qualification (topic 13, file 09); architects design the platform to deliver it; engineers build the pipelines.

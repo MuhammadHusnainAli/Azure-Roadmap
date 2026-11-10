@@ -1,7 +1,5 @@
 # Microsoft Entra ID Fundamentals
 
-> Topic: 02 · Identity and Access · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Microsoft Entra ID (formerly Azure Active Directory) is the identity provider behind Azure, Microsoft 365, Dynamics 365 and thousands of third-party applications. Nothing in Azure works without it. Understanding its objects, and above all the fact that it has a role system separate from Azure's, prevents the most common access confusion you will meet.

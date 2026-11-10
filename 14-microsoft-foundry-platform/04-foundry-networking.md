@@ -1,7 +1,5 @@
 # Foundry Networking
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Enterprises rarely allow AI platforms on the public internet. Prompts contain business data, agents call internal APIs, and regulators ask where traffic flows. Foundry networking has two halves. **Inbound**: who can reach the Foundry endpoints, which you control with private endpoints and public network access. **Outbound**: how agents, tools and evaluations reach your private resources and the internet, which you control with network injection or a managed virtual network and egress rules. Getting both right is a standard part of an AI landing zone (topic 03 file 04, topic 05 file 18).

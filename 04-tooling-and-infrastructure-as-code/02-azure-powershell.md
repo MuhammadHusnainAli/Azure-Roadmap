@@ -1,7 +1,5 @@
 # Azure PowerShell
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ○ A – C – · Status checked: 2026-10
-
 ## Why it matters
 
 Azure PowerShell does the same job as the Azure CLI with a different philosophy: commands return **objects**, not text. For teams with a Windows or operations background it is the natural tool, and a great deal of existing automation (runbooks, operational scripts, migration tooling) is written in it. You should be able to read it, and choose deliberately between it and the CLI.

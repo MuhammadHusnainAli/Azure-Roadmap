@@ -1,7 +1,5 @@
 # Data Transfer
 
-> Topic: 08 · Storage · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Every migration, every new data platform and every AI project starts by moving data into Azure, and many end by moving results somewhere else. The right tool depends on volume, bandwidth, frequency and whether the source is online. Choosing badly turns a two-day copy into a two-month project, or produces an unexpected egress bill. Consultants are often asked "how long will it take to move our data?"; the answer comes from the arithmetic in this file.

@@ -1,7 +1,5 @@
 # Azure Maps and Notification Hubs
 
-> Topic: 10 · Application Platform · Tracks: E – A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Two specialised services appear in many applications: **maps and location** (store finders, delivery tracking, field service, logistics, geofencing) and **push notifications** to mobile devices. Azure Maps and Azure Notification Hubs provide them as managed APIs. Neither is central to AI, but both show up in AI solutions: agents that answer "where is my delivery?", route planning tools for field technicians, or push notifications triggered by an agent's actions.

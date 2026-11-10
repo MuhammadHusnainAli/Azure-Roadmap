@@ -1,7 +1,5 @@
 # Azure Policy
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Policy is how written governance becomes enforced reality. It evaluates every resource against rules you define and can audit, block, alter or fix what does not comply. Engineers meet it as the reason a deployment was denied. Architects use it to guarantee properties of an environment instead of hoping for them. For AI it is the mechanism behind "no keys, no public endpoints, approved models only".

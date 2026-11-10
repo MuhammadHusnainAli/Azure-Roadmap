@@ -1,7 +1,5 @@
 # App Service Networking and Security
 
-> Topic: 10 · Application Platform · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 By default an App Service app has a public endpoint and reaches dependencies over the internet. Enterprise and AI workloads usually need the opposite: private inbound access, private outbound access to databases and Foundry, and authentication in front of everything. App Service has several networking features that are easy to confuse because they work in different directions. Getting them right is a core skill for architects designing secure web and AI applications.

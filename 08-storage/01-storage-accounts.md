@@ -1,7 +1,5 @@
 # Storage Accounts
 
-> Topic: 08 · Storage · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 A storage account is the container for Azure Blob, Data Lake, Files, Queue and Table storage. Its type, performance tier and redundancy are set at creation and decide price, performance and what survives a zone or region failure. Several settings cannot be changed later without migrating data. Getting the account design right is the first storage decision in almost every Azure solution, AI included.

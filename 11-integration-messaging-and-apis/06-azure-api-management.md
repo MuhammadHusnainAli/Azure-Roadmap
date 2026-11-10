@@ -1,7 +1,5 @@
 # Azure API Management
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 API Management (APIM) is the front door for an organisation's APIs. One gateway authenticates callers, applies rate limits and transformations, routes to back ends wherever they run, and records analytics. A developer portal lets consumers discover and subscribe. APIM is also the basis of Azure's **AI gateway** (file 07) and can expose REST APIs as **MCP servers** for agents. Architects meet it in almost every enterprise design. Consultants need to explain tiers and cost, because the tier choice drives networking, scale and price.

@@ -1,7 +1,5 @@
 # Authentication
 
-> Topic: 02 · Identity and Access · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Stolen and phished credentials remain the most common way into cloud environments. Authentication design decides whether an attacker with a password gets in. It is also the first thing a security-conscious client will ask about, and the first thing an AI project inherits: an assistant that can read company data is only as safe as the sign-in in front of it.

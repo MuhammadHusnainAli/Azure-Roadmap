@@ -1,7 +1,5 @@
 # Azure MCP Server and AI-Assisted Operations
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 AI coding agents can now do more than write Bicep for you to run. Through the Model Context Protocol they can query your subscription, read logs, deploy resources and diagnose failures directly. Used well this removes a great deal of toil. Used carelessly it hands an unpredictable system your Azure permissions. This file covers what the tooling is, and the guardrails that make it safe. The area changes monthly, so treat product details as a snapshot and check current documentation.

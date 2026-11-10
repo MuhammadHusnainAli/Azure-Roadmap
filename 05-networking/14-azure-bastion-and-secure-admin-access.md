@@ -1,7 +1,5 @@
 # Azure Bastion and Secure Admin Access
 
-> Topic: 05 · Networking · Tracks: E ● A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Internet-exposed RDP and SSH ports are scanned within minutes of appearing and remain one of the most common ways attackers get in. Once an environment is network-isolated, the opposite problem arises: how do legitimate people reach anything? This file covers the safe ways in. For AI work it has a very practical edge, because a private Foundry environment is unusable from a laptop on the internet until you have an access path into the network.

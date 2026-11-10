@@ -1,7 +1,5 @@
 # Foundry Control Plane
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Organisations are moving from a few copilots to fleets of agents across many projects, built on Foundry, Copilot Studio and third-party frameworks. Without central oversight nobody knows how many agents exist, what they cost, whether they're safe, or which ones break policy. **Microsoft Foundry Control Plane** is the fleet-management layer: inventory, observability, compliance, security and quota for agents, models and tools across a subscription. Architects design for it; consultants include it in every AI governance conversation.

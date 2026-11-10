@@ -1,7 +1,5 @@
 # Azure Service Bus
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Service Bus is Azure's enterprise message broker. Use it when a message represents business intent (an order, a payment, a request for an agent to do work) and losing it, processing it twice or processing it out of order would hurt. It decouples producers from consumers, absorbs spikes, and gives you dead-lettering, sessions, transactions and duplicate detection without running your own broker. In AI systems, Service Bus often sits between a front end and long-running agent or ingestion workers.

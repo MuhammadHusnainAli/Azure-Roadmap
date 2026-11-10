@@ -1,7 +1,5 @@
 # Foundry Toolkit for VS Code and Developer Workflow
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A – C – · Status checked: 2026-11
-
 ## Why it matters
 
 Building AI apps means iterating fast on prompts, models, tools and agents, then moving the result reliably into a governed environment. Microsoft's developer loop for Foundry has three parts. The **Foundry Toolkit for Visual Studio Code** handles build, test, evaluate and trace in the editor. The **Azure Developer CLI (`azd`)** templates and AI agent extension handle provisioning and deployment. The **Foundry portal playgrounds** handle quick experiments. Engineers who use this loop well spend less time on plumbing and ship with evaluations and traces from day one.

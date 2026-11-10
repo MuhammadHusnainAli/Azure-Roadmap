@@ -1,7 +1,5 @@
 # Fabric Data Warehouse and Databases
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Fabric isn't just a lake. It has a full **T-SQL data warehouse** and, more recently, **operational databases**: **SQL database in Fabric** and **Cosmos DB in Fabric**. These run transactional applications inside the same SaaS platform, and their data is automatically replicated into OneLake for analytics. For architects this blurs the old OLTP/OLAP boundary. One platform can host an AI application's operational store (chat history, agent state, product catalogue with vectors) and the analytics on it, with no ETL in between.

@@ -1,7 +1,5 @@
 # Storage Security
 
-> Topic: 08 · Storage · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Exposed storage accounts are one of the most common causes of cloud data breaches: public containers, leaked account keys, long-lived SAS tokens in source code. AI raises the stakes, because storage now holds the documents that RAG systems index and the data that models are trained on. A secure storage account uses identity instead of keys, private networking instead of the internet, encryption with appropriate key control, and threat detection. All of it is configuration you can enforce with policy.

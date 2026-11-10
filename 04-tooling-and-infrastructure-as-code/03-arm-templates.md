@@ -1,7 +1,5 @@
 # ARM Templates
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ○ A – C – · Status checked: 2026-10
-
 ## Why it matters
 
 ARM templates are the JSON format Azure Resource Manager natively understands. You will rarely write one by hand now, because Bicep compiles to this format and is far easier to work with. You still need to **read** them: the portal's *Export template* produces JSON, older estates are full of it, deployment history stores it, and when a Bicep deployment fails the error refers to the compiled template. This file is for literacy, not authorship.

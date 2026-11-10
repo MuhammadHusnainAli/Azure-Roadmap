@@ -1,7 +1,5 @@
 # Azure SDKs and REST API
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 The CLI and IaC create resources. Your **application** uses them through the SDKs: uploading a blob, querying a search index, calling a model, running an agent. The Azure SDKs share one design across services and languages, so learning the patterns once (credentials, retries, paging, long-running operations, errors, tracing) pays off in every client you use afterwards. Underneath them all is the REST API, which you need to understand when an SDK lags a feature or something goes wrong.

@@ -1,7 +1,5 @@
 # Azure Red Hat OpenShift and Service Fabric
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E – A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Not every customer arrives with a clean slate. Many enterprises already run Red Hat OpenShift on-premises and want the same platform in Azure. Others have years of applications on Service Fabric, Microsoft's older microservices platform. Architects and consultants must recognise when these platforms are the right answer, what they cost, and how to plan a move from them when they are not.

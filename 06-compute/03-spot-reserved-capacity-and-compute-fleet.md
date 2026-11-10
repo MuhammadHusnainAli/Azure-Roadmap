@@ -1,7 +1,5 @@
 # Spot, Reserved Capacity and Compute Fleet
 
-> Topic: 06 · Compute · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 The same VM can cost very different amounts depending on how you buy it, and whether it is actually available when you ask is a separate question again. This file untangles the pricing models (pay-as-you-go, reservations, savings plans, Spot) from the capacity guarantee (capacity reservations), and shows how to combine them. The logic transfers directly to AI: GPU capacity follows the same rules, and provisioned throughput for models is the same commit-for-discount idea.

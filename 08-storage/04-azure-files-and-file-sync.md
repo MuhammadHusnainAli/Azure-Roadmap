@@ -1,7 +1,5 @@
 # Azure Files and File Sync
 
-> Topic: 08 · Storage · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Many applications, and most office file servers, expect a shared file system with folders, locks and Windows permissions. Azure Files provides fully managed SMB and NFS shares, and Azure File Sync turns on-premises Windows file servers into caches of those shares. Together they are a common first step in moving file servers to Azure, hosting user profiles for virtual desktops, and giving lift-and-shift applications shared storage without running file server VMs.

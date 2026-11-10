@@ -1,7 +1,5 @@
 # Static Web Apps
 
-> Topic: 10 · Application Platform · Tracks: E ○ A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Most modern front ends (React, Angular, Vue, Svelte, Blazor WebAssembly, static site generators) compile to static files plus calls to APIs. Azure Static Web Apps hosts those files globally, builds them from GitHub or Azure DevOps, adds authentication and routing, links them to an API back end, and creates a preview environment for every pull request. For AI chat front ends, documentation sites and internal tools it is often the simplest and cheapest option.

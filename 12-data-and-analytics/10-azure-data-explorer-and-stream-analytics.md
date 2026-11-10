@@ -1,7 +1,5 @@
 # Azure Data Explorer and Stream Analytics
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Telemetry (logs, metrics, IoT readings, clickstreams, AI traces) arrives continuously and in huge volumes. Two Azure PaaS services specialise in it. **Azure Data Explorer (ADX)** stores and queries time-series and log data at scale with KQL. **Azure Stream Analytics (ASA)** processes events in flight with SQL-like queries. Fabric Real-Time Intelligence (file 05) now offers the same Kusto engine as a SaaS service, so architects should know when the standalone PaaS services are still the better fit.
@@ -160,4 +158,4 @@ Check the `az kusto` parameter names against the current CLI reference; some are
 - [Windowing functions](https://learn.microsoft.com/azure/stream-analytics/stream-analytics-window-functions)
 - [Reference data inputs](https://learn.microsoft.com/azure/stream-analytics/stream-analytics-use-reference-data)
 - [Stream Analytics outputs](https://learn.microsoft.com/azure/stream-analytics/stream-analytics-define-outputs)
-- [Fabric Real-Time Intelligence compared with Azure Data Explorer](https://learn.microsoft.com/fabric/real-time-intelligence/realtime-intelligence-compare)
+- [Fabric Real-Time Intelligence compared with Azure Data Explorer](https://learn.microsoft.com/fabric/real-time-intelligence/real-time-intelligence-compare)

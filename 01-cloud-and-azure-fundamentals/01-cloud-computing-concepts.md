@@ -1,7 +1,5 @@
 # Cloud Computing Concepts
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Every Azure conversation starts with a choice about how much you want to manage yourself. An engineer makes that choice when picking a hosting option. An architect makes it when trading control for speed. A consultant makes it when explaining to a finance director why the bill is now monthly and variable. If the vocabulary here is shaky, everything built on it is too.

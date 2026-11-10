@@ -1,7 +1,5 @@
 # The Microsoft AI Stack
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Clients don't ask "should I use Foundry?". They ask "we have Microsoft 365 Copilot, someone built something in Copilot Studio, the data team uses Fabric and Databricks, and IT wants governance: what goes where?" Microsoft's AI offerings overlap at the edges and are renamed often. Being able to place each product correctly, and explain how they connect through shared identity, data, models and governance, is one of the most valuable skills for architects and consultants.

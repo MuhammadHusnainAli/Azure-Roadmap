@@ -1,7 +1,5 @@
 # Azure Resource Graph
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 "What do we actually have?" is the first question in any assessment, audit or incident. Azure Resource Graph answers it in seconds across every subscription you can read. For a consultant it is the fastest route to a current-state picture. For an architect it measures whether governance is working. For an engineer it replaces slow loops over `az resource list`.

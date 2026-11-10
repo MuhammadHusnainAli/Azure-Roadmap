@@ -1,7 +1,5 @@
 # Foundry Local and Edge Inference
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ○ C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Not every AI call should go to the cloud. Field engineers work offline, clinicians handle data that must stay on the device, factory PCs need millisecond responses, and some features run millions of times a day where per-token costs add up. **Foundry Local** runs optimised models on the user's own device (Windows, macOS, Linux) with automatic hardware acceleration and an OpenAI-compatible API. Combined with cloud Foundry, it enables **hybrid** designs that route each request to the right place.

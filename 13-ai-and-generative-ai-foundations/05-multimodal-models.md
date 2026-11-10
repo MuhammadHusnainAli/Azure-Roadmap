@@ -1,7 +1,5 @@
 # Multimodal Models
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Business information isn't just text. It's scanned invoices, product photos, diagrams, recorded calls, meeting audio and video. **Multimodal models** take in and/or produce more than one modality: text, images, audio and video. They enable document understanding, visual inspection, voice agents, image generation for marketing, and video generation. Consultants need to know what's realistic; architects need to know which service handles which modality on Azure, and at what latency and cost.
@@ -163,4 +161,4 @@ For long recordings, high volume, diarisation, custom vocabularies or batch proc
 - [Realtime API for speech and audio](https://learn.microsoft.com/azure/foundry/openai/how-to/realtime-audio)
 - [Voice Live API overview](https://learn.microsoft.com/azure/ai-services/speech-service/voice-live)
 - [What is Azure Content Understanding?](https://learn.microsoft.com/azure/ai-services/content-understanding/overview)
-- [Content credentials in Azure OpenAI](https://learn.microsoft.com/azure/foundry/openai/concepts/content-credentials)
+- [Content credentials in Azure OpenAI](https://learn.microsoft.com/azure/foundry-classic/openai/concepts/content-credentials)

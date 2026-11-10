@@ -22,7 +22,12 @@ It covers the whole Azure platform as it stands in **October 2026**, with the de
 > | [08 · Storage](08-storage/README.md) | Written (11 of 11 subtopics) |
 > | [09 · Databases](09-databases/README.md) | Written (13 of 13 subtopics) |
 > | [10 · Application Platform](10-application-platform/README.md) | Written (11 of 11 subtopics) |
-> | 11 – 38 | Not started |
+> | [11 · Integration, Messaging and APIs](11-integration-messaging-and-apis/README.md) | Written (10 of 10 subtopics) |
+> | [12 · Data and Analytics](12-data-and-analytics/README.md) | Written (12 of 12 subtopics) |
+> | [13 · AI and Generative AI Foundations](13-ai-and-generative-ai-foundations/README.md) | Written (9 of 9 subtopics) |
+> | [14 · Microsoft Foundry Platform](14-microsoft-foundry-platform/README.md) | Written (11 of 11 subtopics) |
+> | [15 · Foundry Models and Azure OpenAI](15-foundry-models-and-azure-openai/README.md) | Written (15 of 15 subtopics) |
+> | 16 – 38 | Not started |
 
 ---
 

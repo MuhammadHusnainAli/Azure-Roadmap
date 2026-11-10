@@ -1,7 +1,5 @@
 # Azure Batch
 
-> Topic: 06 · Compute · Tracks: E ○ A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Some work is not a service that answers requests. It is a large pile of independent jobs: render ten thousand frames, score a million documents, run a Monte Carlo simulation, transcode a video archive, embed an entire corpus. Azure Batch runs that kind of work across hundreds or thousands of VMs without you building a scheduler. It is the VM-level answer to large-scale batch compute, and a useful comparison point for the container-based alternatives most AI teams reach for first.

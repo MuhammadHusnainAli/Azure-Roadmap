@@ -1,7 +1,5 @@
 # Portal, Cloud Shell and Mobile App
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The portal is where you explore, troubleshoot and demonstrate. It is not where production gets built, but an engineer who cannot find an activity log entry, a consultant who fumbles a demo, or an architect who cannot query the estate all lose time and credibility. This file covers the interactive tools; topic 04 covers the automation tools.

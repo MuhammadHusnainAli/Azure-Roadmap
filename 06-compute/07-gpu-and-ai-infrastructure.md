@@ -1,7 +1,5 @@
 # GPU and AI Infrastructure
 
-> Topic: 06 · Compute · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most AI applications on Azure call a managed model endpoint and never touch a GPU. Some need their own: an open-weight or custom-trained model, strict data or sovereignty constraints, specialised inference, or training and fine-tuning beyond what managed services offer. Knowing what GPU infrastructure involves, and what it costs in money and operational effort, lets an engineer build it properly and lets an architect or consultant answer the question "should we host our own model?" with numbers instead of instinct. GPU families and availability change fast; verify specifics before committing.

@@ -1,7 +1,5 @@
 # Terraform on Azure
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Terraform is the most widely used infrastructure-as-code tool across clouds, and a large share of Azure estates are managed with it. Many client teams you join will already have years of Terraform. Compared with Bicep it adds a state file, a plan-and-apply workflow, a huge provider ecosystem and the ability to manage Azure, Entra ID, GitHub, Kubernetes and other clouds from one codebase.

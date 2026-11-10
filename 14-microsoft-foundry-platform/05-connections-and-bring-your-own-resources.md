@@ -1,7 +1,5 @@
 # Connections and Bring-Your-Own Resources
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Foundry rarely works alone. Agents need knowledge (Azure AI Search), files (Storage), conversation state (Cosmos DB), secrets (Key Vault), telemetry (Application Insights), other models (another Foundry resource or a partner endpoint) and business tools (APIs, MCP servers). **Connections** are how a Foundry resource or project references these services securely. **Bring-your-own (BYO) resources** decide where your data actually lives. Both are central to security reviews, data residency questions and agent design.

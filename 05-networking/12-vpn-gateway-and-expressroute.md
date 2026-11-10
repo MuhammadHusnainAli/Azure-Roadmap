@@ -1,7 +1,5 @@
 # VPN Gateway and ExpressRoute
 
-> Topic: 05 · Networking · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most organisations' data, users and systems are not all in Azure. Hybrid connectivity links the corporate network to Azure so that an AI application can reach an on-premises database, users can reach an internal assistant over the private network, and private endpoints resolve and route from the office. The choice between VPN and ExpressRoute affects performance, resilience and cost for years, and circuits have lead times measured in weeks.

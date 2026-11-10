@@ -1,7 +1,5 @@
 # Machine Learning Essentials
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Generative AI didn't replace machine learning; it is machine learning. Every conversation about "will the model be accurate?", "do we have enough data?" or "why did it work in testing but not in production?" uses ML concepts: training vs inference, overfitting, evaluation metrics, data leakage. Engineers need them to build and evaluate systems. Architects need them to size and design. Consultants need them to set realistic expectations and to spot when a "GenAI" use case is really a classic ML problem (forecasting, churn prediction) that a cheaper model solves better.

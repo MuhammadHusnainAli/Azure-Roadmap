@@ -1,7 +1,5 @@
 # Azure Data Lake Storage
 
-> Topic: 08 · Storage · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Data Lake Storage (ADLS, formerly ADLS Gen2) is Blob Storage with a **hierarchical namespace**: real directories, atomic renames and POSIX-style access control lists. It is the storage layer for Azure Databricks, Synapse, HDInsight and many Fabric scenarios (through OneLake shortcuts), and a common home for AI training data and RAG source corpora. A well-designed lake makes analytics and AI fast, governed and cheap; a badly designed one becomes a data swamp with leaky permissions.

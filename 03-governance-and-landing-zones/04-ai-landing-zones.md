@@ -1,7 +1,5 @@
 # AI Landing Zones
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 The first AI project in most organisations is a proof of concept in someone's subscription with public endpoints and an API key. The second is the same thing in a different subscription. By the fifth, security has stopped approving anything. An AI landing zone is the answer to "how do we let many teams build AI safely?": a governed place for AI workloads, with network, identity, policy and cost controls decided once. This is the file where the roadmap's foundations meet its AI focus.

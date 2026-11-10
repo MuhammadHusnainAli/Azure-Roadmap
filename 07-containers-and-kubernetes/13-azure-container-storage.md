@@ -1,7 +1,5 @@
 # Azure Container Storage
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Containers are ephemeral, but many workloads are not: databases, message brokers, vector stores, model caches and training checkpoints all need storage that survives a pod restart or reschedule. Kubernetes abstracts storage through volumes and CSI drivers, and Azure offers several backing services with very different performance, cost and availability. Choosing wrongly gives you slow model loading, lost data on zone failure, or a large storage bill.

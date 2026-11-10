@@ -1,7 +1,5 @@
 # Microsoft Fabric Fundamentals
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Microsoft Fabric is Microsoft's software-as-a-service analytics platform. Data integration, engineering, warehousing, real-time analytics, data science, Power BI, databases and AI agents all share one storage layer (**OneLake**), one capacity-based billing model and one governance model. Most new Microsoft data and AI engagements involve Fabric, and Fabric data is increasingly a knowledge source for Foundry agents. Consultants get asked about licensing and capacity sizing in nearly every Fabric conversation, and those topics are easy to get wrong.

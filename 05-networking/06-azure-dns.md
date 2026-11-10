@@ -1,7 +1,5 @@
 # Azure DNS
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 In a private Azure environment, DNS is the difference between a working system and a set of timeouts. Every private endpoint depends on it, hybrid connectivity depends on it, and it is the most frequent root cause when an isolated AI deployment "can't reach" its model or search service. This file covers Azure's DNS services and the resolution designs you need for landing zones and hybrid networks.

@@ -1,7 +1,5 @@
 # Network Watcher and Troubleshooting
 
-> Topic: 05 · Networking · Tracks: E ● A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 "It can't connect" is the most common infrastructure problem you will be handed, and in a private Azure environment there are five or six layers that could be responsible. Engineers who troubleshoot by guessing lose hours; those with a method and the right tools find the cause in minutes. This file gives you both. It is one of the most practically useful files in the networking topic.

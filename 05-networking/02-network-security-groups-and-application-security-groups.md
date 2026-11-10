@@ -1,7 +1,5 @@
 # Network Security Groups and Application Security Groups
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Network security groups are Azure's built-in, free packet filter. They are the first control between subnets, the usual reason "it can't connect", and a baseline requirement in every security benchmark. They are simple to describe and easy to get subtly wrong, mostly through misunderstanding the default rules and evaluation order.

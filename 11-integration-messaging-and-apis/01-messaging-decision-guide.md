@@ -1,7 +1,5 @@
 # Messaging Decision Guide
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Azure has four messaging services that look similar from a distance: **Service Bus**, **Event Grid**, **Event Hubs** and **Storage Queues**. Picking the wrong one is one of the most common integration design mistakes. Teams build telemetry pipelines on Service Bus and hit throughput walls, or they put business orders on Event Grid and then can't guarantee ordering or transactions. AI workloads make the choice matter more. Ingestion pipelines, agent task queues, tool callbacks and model telemetry each need a different kind of messaging.
@@ -171,7 +169,7 @@ Then, for each, answer: how do I read the message? Can I read it twice? What hap
 ## References
 
 - [Choose between Azure messaging services](https://learn.microsoft.com/azure/service-bus-messaging/compare-messaging-services)
-- [Storage queues and Service Bus queues compared](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-azure-and-storage-queues-compared-contrasted)
+- [Storage queues and Service Bus queues compared](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
 - [Service Bus quotas](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-quotas)
 - [Event Hubs quotas](https://learn.microsoft.com/azure/event-hubs/event-hubs-quotas)
 - [Event Grid quotas and limits](https://learn.microsoft.com/azure/event-grid/quotas-limits)

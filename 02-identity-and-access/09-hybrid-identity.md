@@ -1,7 +1,5 @@
 # Hybrid Identity
 
-> Topic: 02 · Identity and Access · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most established organisations still run Active Directory on-premises. Their users, groups and many applications live there. Hybrid identity connects that estate to Microsoft Entra ID so people have one identity everywhere. Engineers rarely build this, but architects and consultants must understand it: it determines how users sign in, which groups exist in the cloud to assign roles to, and what happens to cloud access when a domain controller is offline.

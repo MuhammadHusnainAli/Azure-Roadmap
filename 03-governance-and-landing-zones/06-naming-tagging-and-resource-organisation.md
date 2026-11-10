@@ -1,7 +1,5 @@
 # Naming, Tagging and Resource Organisation
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Most resource names cannot be changed after creation. A naming convention agreed in week one saves years of confusion; one agreed in year two requires rebuilding things. Names tell a person what something is at a glance. Tags tell systems who owns it, who pays for it and how it should be treated. Together they make an estate searchable, billable and operable.

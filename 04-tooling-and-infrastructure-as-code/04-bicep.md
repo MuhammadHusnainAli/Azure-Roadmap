@@ -1,7 +1,5 @@
 # Bicep
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Bicep is Microsoft's own language for declaring Azure infrastructure. It supports every resource type and API version on the day they ship, needs no state file, and is free. If your team works only on Azure, it is the most direct route to repeatable environments. Most Microsoft reference implementations, including the landing zone and AI accelerators, are published in it.

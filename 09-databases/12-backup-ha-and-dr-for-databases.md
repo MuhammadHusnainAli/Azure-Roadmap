@@ -1,7 +1,5 @@
 # Backup, HA and DR for Databases
 
-> Topic: 09 · Databases · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 When a database is unavailable, the application is down; when data is lost, the business may be too. Azure databases include high availability, automated backups and geo-replication, but each option has a different RPO, RTO, cost and operational behaviour. Architects must translate business requirements into a design, and prove it works with tests. This file brings together the continuity features of the services in this topic.

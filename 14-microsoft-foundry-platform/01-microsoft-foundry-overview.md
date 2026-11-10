@@ -1,7 +1,5 @@
 # Microsoft Foundry Overview
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 **Microsoft Foundry** is Azure's platform for building, deploying and governing AI applications and agents. Model access, agent hosting, knowledge (Foundry IQ), prebuilt AI tools, evaluation, observability and fleet governance all sit under one resource, one portal and one SDK. Almost every AI engagement on Azure now starts here. Because the product has been renamed several times, you need to recognise old names in existing estates and documentation and use the current names in new work.

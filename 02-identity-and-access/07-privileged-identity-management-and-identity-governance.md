@@ -1,7 +1,5 @@
 # Privileged Identity Management and Identity Governance
 
-> Topic: 02 · Identity and Access · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Access tends only to grow. People change roles, projects end, contractors leave, and the permissions stay. Identity governance is the discipline of making sure the right identities have the right access for the right time, and can prove it to an auditor. Privileged Identity Management tackles the sharpest end of that problem: standing administrative access.

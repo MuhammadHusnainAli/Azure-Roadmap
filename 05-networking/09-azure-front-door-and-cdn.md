@@ -1,7 +1,5 @@
 # Azure Front Door and CDN
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Front Door is the global entry point for internet-facing HTTP applications: one hostname that reaches users through Microsoft's edge network, terminates TLS close to them, blocks attacks before they reach your region, caches what can be cached, and fails over between regions in seconds. It is the default answer for multi-region web applications, and increasingly for single-region ones that want edge security.

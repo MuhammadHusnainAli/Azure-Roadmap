@@ -1,7 +1,5 @@
 # Azure Global Infrastructure
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 "Which region?" is the first question on almost every deployment, and the answer constrains latency, compliance, cost, resilience and which services you can use at all. For AI it is sharper still: model availability and quota vary by region, so the region you want may not have the model you need.

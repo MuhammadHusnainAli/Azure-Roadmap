@@ -1,7 +1,5 @@
 # Fabric Real-Time Intelligence
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Some data loses its value within seconds: fraud signals, machine telemetry, clickstreams, logistics positions, and the token usage and latency of your AI apps. **Real-Time Intelligence (RTI)** is the Fabric workload for data in motion. It ingests streams with **Eventstreams**, stores and queries them with **Eventhouses** using **KQL**, visualises them in **Real-Time Dashboards**, and acts on patterns with **Activator**. All of it is centred on the **Real-Time hub**. For AI teams, RTI is a natural home for model and agent telemetry, and Fabric data agents can query Eventhouse data in natural language.

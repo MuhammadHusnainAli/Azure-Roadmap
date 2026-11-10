@@ -1,7 +1,5 @@
 # Deployment Stacks and Template Specs
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Bicep has no state, so an ordinary deployment cannot tell that you removed a resource from the file, and it cannot stop someone changing what you deployed. Deployment stacks close both gaps natively in Azure. Template specs solve a different problem: storing and sharing templates as governed Azure resources. Together they are also the migration target for Azure Blueprints, which retires in January 2027.

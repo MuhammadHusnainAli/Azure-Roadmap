@@ -1,7 +1,5 @@
 # Databases as Agent Memory and State
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Language models are stateless: every call starts from nothing. Everything an AI application or agent "remembers" (the conversation so far, the steps of a long task, what it learned about a user last month) lives in a database the application controls. How you store that state determines whether agents can resume after failures, scale across instances, personalise responses, respect privacy and stay within token budgets. This is now a core design topic for AI engineers and architects.

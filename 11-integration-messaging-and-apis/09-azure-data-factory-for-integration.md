@@ -1,7 +1,5 @@
 # Azure Data Factory for Integration
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Not every integration is a message or an API call. A lot of enterprise integration is **moving data in bulk on a schedule**: nightly extracts from SAP or Oracle, file drops from partners over SFTP, copying on-premises SQL tables into a data lake, or loading documents into a RAG pipeline. **Azure Data Factory (ADF)** is Azure's managed service for this kind of data integration, with 90+ connectors, a hybrid runtime for on-premises sources, and orchestration with retries and monitoring. This file covers ADF as an *integration* tool. Topic 12 covers it as part of the data platform, along with Fabric Data Factory and migration.

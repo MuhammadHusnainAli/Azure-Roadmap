@@ -1,7 +1,5 @@
 # Azure Event Grid
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Event Grid is how Azure tells your code that something happened: a blob was uploaded, a resource was created, a key is about to expire, a device published a reading. It's a fully managed publish-subscribe service that routes **discrete events** to handlers by push, lets consumers **pull** events from namespace topics, and runs a cloud **MQTT broker** for IoT clients. Most event-driven AI pipelines start with Event Grid, for example "a new document arrived, so re-index it".

@@ -1,7 +1,5 @@
 # Quotas, Regions and Pricing
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 The first production surprise for many AI teams is that the model they need isn't available in their region, their quota is too small for launch-day traffic, or the bill is far higher than the proof of concept suggested. Quotas, regional availability and pricing meters shape architecture: which region, which deployment type, whether to buy provisioned throughput, how to attribute cost to teams. Consultants need this to estimate; architects need it to design.
@@ -47,7 +45,7 @@ Quota limits change frequently. Treat the quota page as the source of truth and 
 | **Provisioned throughput units (PTU)** | Hourly per PTU, with monthly or yearly **reservations** for discounts |
 | **Images, audio, video** | Per image, per audio minute or per audio token, per video second, depending on the model |
 | **Fine-tuning** | Training (per token or per hour) and **hosting** of fine-tuned deployments (hourly) plus inference tokens |
-| **Managed compute** | VM hours for models on dedicated GPU compute |
+| **Managed compute** | Hourly per accelerator (A100, H100, MI300X) for Foundry managed compute (preview); VM hours for Azure ML online endpoints |
 | **Partner models (Marketplace)** | Billed through Azure Marketplace with the provider's terms |
 | **Agent Service tools** | Some tools bill separately (for example code interpreter sessions, file search storage, web grounding, Foundry IQ / AI Search) |
 | **Other** | AI Search, Storage, Cosmos DB, Application Insights ingestion, API Management, evaluations (model calls by evaluators) |
@@ -143,7 +141,7 @@ Use the Azure pricing calculator for current rates. Measure real token counts fr
 2. Deployments of the same model and version share one quota pool across all regions in the subscription (Data Zone Standard shares one pool per data zone).
 3. Seven levels (Free/Tier 0 and Tiers 1–6) that set default quotas; subscriptions auto-upgrade as consumption grows, considering relationship (EA/MCA-E) and payment history; customers can opt out.
 4. HTTP 429, with the `retry-after` header (plus `x-ratelimit-*` headers).
-5. Any five of: input tokens, cached input tokens, output tokens, batch tokens, PTU hours or reservations, image/audio/video units, fine-tuning training and hosting, managed compute VM hours, Marketplace partner billing, agent tool charges, AI Search, Storage, App Insights, API Management.
+5. Any five of: input tokens, cached input tokens, output tokens, batch tokens, PTU hours or reservations, image/audio/video units, fine-tuning training and hosting, managed compute accelerator-hours, Marketplace partner billing, agent tool charges, AI Search, Storage, App Insights, API Management.
 6. Use AI gateway token metrics with team or app dimensions, separate deployments per team with Azure Monitor metrics, or separate resources with tags and budgets.
 
 </details>

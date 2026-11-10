@@ -1,7 +1,5 @@
 # Azure Virtual Desktop and Windows 365
 
-> Topic: 06 · Compute · Tracks: E – A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Desktop virtualisation delivers a Windows desktop or individual applications from the cloud to any device. It is a large Azure workload in its own right, and it intersects with AI projects in a specific way: when an AI environment is network-isolated, developers and operators need a workstation *inside* the network, and a cloud desktop is often the cleanest answer. Consultants also meet it constantly in remote-work, contractor, call-centre and regulated-industry engagements. The product line shifted in 2025 and 2026, so check current status.

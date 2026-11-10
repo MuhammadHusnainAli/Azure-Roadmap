@@ -1,7 +1,5 @@
 # Foundry Access Control
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 A Foundry resource holds model deployments that cost money, agents that act on data, and connections to storage, search and databases. Who can create projects, deploy models, build agents, publish them, or just call them is controlled by **Azure RBAC** at resource, project and even agent scope. Getting this right, with **keyless** authentication and **managed identities** everywhere, is a security baseline, and it's an area where the role names recently changed.
@@ -21,6 +19,7 @@ Token scopes used with `DefaultAzureCredential`:
 |---|---|
 | Project endpoint (`*.services.ai.azure.com/api/projects/...`) via Foundry SDK | Handled by the SDK (Foundry audience `https://ai.azure.com`) |
 | OpenAI v1 endpoint (`*.openai.azure.com/openai/v1`) via OpenAI SDK | `https://cognitiveservices.azure.com/.default` |
+| Anthropic endpoint (`*.services.ai.azure.com/anthropic`) via `AnthropicFoundry` | `https://ai.azure.com/.default` |
 
 ### Scopes
 

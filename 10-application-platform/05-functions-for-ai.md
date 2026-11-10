@@ -1,7 +1,5 @@
 # Functions for AI
 
-> Topic: 10 · Application Platform · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Agents need tools, and tools need somewhere to run. Azure Functions has become one of the most practical places to host them: as **remote MCP servers**, as tool back ends for Foundry Agent Service, and as event-driven pipelines that feed knowledge bases. Functions provides an MCP trigger, bindings for AI services, serverless scaling and built-in authentication. For AI engineers this is often the fastest path from "the agent needs to look up an order" to a secure, scalable tool in production.

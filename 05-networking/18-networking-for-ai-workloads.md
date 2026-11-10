@@ -1,7 +1,5 @@
 # Networking for AI Workloads
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 This file applies the whole networking topic to an AI application. A production RAG or agent system that handles internal data has to answer four questions to pass a security review: how do users get in, how do the components reach each other privately, what can the system reach on the internet, and how do people and pipelines work inside the boundary. Foundry networking is evolving, so treat the specifics as a snapshot and confirm against current documentation before finalising a design.

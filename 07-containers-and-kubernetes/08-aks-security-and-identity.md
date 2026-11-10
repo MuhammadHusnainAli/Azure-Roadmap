@@ -1,7 +1,5 @@
 # AKS Security and Identity
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 A Kubernetes cluster concentrates risk: one cluster may run dozens of teams' workloads, hold credentials to many Azure services, and expose an API that can do anything to all of them. AKS security is about four things: who can reach and use the API server, what identities pods use to reach Azure, what is allowed to run, and how threats are detected. AI workloads add their own stakes, because agent pods often hold access to data and models.

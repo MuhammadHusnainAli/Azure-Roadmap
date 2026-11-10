@@ -1,7 +1,5 @@
 # Azure Container Registry
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Every container deployment on Azure pulls from a registry, and Azure Container Registry (ACR) is the default private one. Its tier decides whether you can use private endpoints and geo-replication, its authentication model decides whether you leak credentials, and its build and import features decide how controlled your software supply chain is. Getting ACR right is a prerequisite for a secure AKS or Container Apps platform.

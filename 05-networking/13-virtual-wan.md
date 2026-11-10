@@ -1,7 +1,5 @@
 # Virtual WAN
 
-> Topic: 05 · Networking · Tracks: E – A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Hub-and-spoke gives you full control and makes you build everything: the hub network, gateways, route tables on every spoke, peering between regional hubs. Azure Virtual WAN is the managed alternative. Microsoft runs the hub and its routing, and you attach networks to it. It is one of the two network topologies in the Azure landing zone reference, and the usual choice for organisations with many branches or regions.

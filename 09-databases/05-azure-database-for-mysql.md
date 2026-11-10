@@ -1,7 +1,5 @@
 # Azure Database for MySQL
 
-> Topic: 09 · Databases · Tracks: E ○ A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 MySQL runs a large share of the web: WordPress, Drupal, Magento, countless PHP and LAMP applications, and many SaaS products. When those workloads move to Azure, Azure Database for MySQL flexible server is the natural managed target. Architects and consultants meet it mainly in migrations; engineers meet it when an application or framework expects MySQL.

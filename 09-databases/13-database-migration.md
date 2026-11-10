@@ -1,7 +1,5 @@
 # Database Migration
 
-> Topic: 09 · Databases · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Database migration is often the critical path of a move to Azure: applications can be redeployed quickly, but data has to be moved consistently, with acceptable downtime and without loss. Consultants scope and estimate these migrations; architects choose targets and cutover strategies; engineers run them. Getting the assessment and cutover right is what separates a quiet weekend from a failed go-live.

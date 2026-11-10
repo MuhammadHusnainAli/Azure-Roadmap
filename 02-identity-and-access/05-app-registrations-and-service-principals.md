@@ -1,7 +1,5 @@
 # App Registrations and Service Principals
 
-> Topic: 02 · Identity and Access · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The moment your application needs users to sign in, or needs to call an API on a user's behalf, you are working with the Microsoft identity platform. For AI this is not optional detail: a RAG assistant that must return only documents the signed-in user is allowed to see, or an agent that acts with the user's permissions, depends entirely on getting OAuth flows right.

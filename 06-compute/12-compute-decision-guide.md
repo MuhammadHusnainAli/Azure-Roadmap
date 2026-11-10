@@ -1,7 +1,5 @@
 # Compute Decision Guide
 
-> Topic: 06 · Compute · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 "Where should this run?" is asked on every project, and the wrong answer is costly to reverse: too low-level and a small team drowns in operations; too high-level and they hit a wall the platform will not let them through. Azure has a dozen plausible compute services. This guide gives you a repeatable way to choose, the comparison you need to defend the choice, and specific guidance for the pieces of an AI application. Topics 07 and 10 cover the container and application platforms in depth; this is the map between them.

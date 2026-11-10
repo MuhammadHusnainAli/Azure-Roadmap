@@ -1,7 +1,5 @@
 # Deep Learning and Transformers
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ○ C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Every modern language, vision, speech and embedding model you'll deploy on Foundry is a deep neural network, and almost all of them are **transformers**. You don't need to implement one. You do need to understand why context windows are limited and expensive, why long prompts slow responses, why models hallucinate, what "encoder" and "decoder" mean on a model card, and why bigger models are more capable but cost more. These ideas explain behaviour you'll otherwise find confusing in production.

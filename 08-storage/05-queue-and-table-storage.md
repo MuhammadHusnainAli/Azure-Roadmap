@@ -1,7 +1,5 @@
 # Queue and Table Storage
 
-> Topic: 08 · Storage · Tracks: E ○ A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Queue Storage and Table Storage are the simplest, cheapest messaging and NoSQL options in Azure, bundled into every general-purpose storage account. They are good enough for a surprising number of workloads, from background job queues to device state lookups. Knowing their limits tells you when to stop and reach for Service Bus or Cosmos DB instead, which is a decision architects make often.

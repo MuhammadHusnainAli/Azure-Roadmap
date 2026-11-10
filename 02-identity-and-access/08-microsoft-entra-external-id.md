@@ -1,7 +1,5 @@
 # Microsoft Entra External ID
 
-> Topic: 02 · Identity and Access · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Not everyone who uses your solution is an employee. Partners need to collaborate, suppliers need a portal, and customers need to sign in to the AI assistant on your website. Microsoft Entra External ID covers all of these. The first design question, and the one people get wrong, is which of its two quite different modes applies.

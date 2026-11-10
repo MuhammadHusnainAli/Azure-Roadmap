@@ -1,7 +1,5 @@
 # Microsoft Purview Data Governance
 
-> Topic: 12 · Data and Analytics · Tracks: E – A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 AI makes data governance urgent. An agent with access to a lakehouse, a SharePoint library and a CRM can surface any of it in a single answer. Executives ask "what data do we have, who owns it, is it any good, and who's allowed to use it for AI?" **Microsoft Purview** is Microsoft's family of data security, governance and compliance solutions. Its **data governance** capabilities, mainly the **Unified Catalog** and **Data Map**, answer those questions across Azure, Fabric, on-premises and multicloud sources. Consultants run data governance assessments; architects design how Purview fits the platform.

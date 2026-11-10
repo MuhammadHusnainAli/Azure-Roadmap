@@ -1,7 +1,5 @@
 # Azure SQL Managed Instance and SQL Server on VMs
 
-> Topic: 09 · Databases · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most enterprises have large SQL Server estates, and moving them to Azure is one of the most common migration projects consultants and architects run. Azure SQL Database suits new apps, but existing apps often rely on instance-level features it does not have. **Azure SQL Managed Instance** provides near-full SQL Server compatibility as PaaS; **SQL Server on Azure VMs** provides complete control as IaaS. Choosing between them, and using licensing benefits correctly, can change a business case by a large margin.

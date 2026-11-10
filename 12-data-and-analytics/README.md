@@ -66,4 +66,4 @@ AI is built on data, and on Azure that increasingly means **Microsoft Fabric**: 
 
 ## Next
 
-13 · AI and Generative AI Foundations (see [Roadmap.md](../Roadmap.md))
+[13 · AI and Generative AI Foundations](../13-ai-and-generative-ai-foundations/README.md)

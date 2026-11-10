@@ -1,7 +1,5 @@
 # Azure Container Apps
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Container Apps is a serverless platform for containers built on Kubernetes, KEDA, Dapr and Envoy, without exposing any of them to you. It covers most of what teams want from Kubernetes (microservices, autoscaling, scale to zero, revisions, jobs, private networking) with a fraction of the operational load. For most new APIs, background workers, AI applications and agents on Azure, it is the first container host to consider.

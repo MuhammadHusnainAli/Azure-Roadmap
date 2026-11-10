@@ -1,7 +1,5 @@
 # Microsoft Entra Agent ID
 
-> Topic: 02 · Identity and Access · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 AI agents read data, call APIs and take actions. Each of those needs an identity to be authorised and audited against. Until recently an agent borrowed a service principal or, worse, a user's credentials, which left nobody able to answer "which agents do we have, who owns them, and what can they touch?" Microsoft Entra Agent ID gives agents their own identity type. This area is new and moving quickly; treat specifics as a snapshot and verify against current documentation before a design review.

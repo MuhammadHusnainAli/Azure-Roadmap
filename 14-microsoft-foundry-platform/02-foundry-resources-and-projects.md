@@ -1,7 +1,5 @@
 # Foundry Resources and Projects
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 How you lay out Foundry resources and projects decides who can see what, where data lives, how costs are attributed, how networking works and how teams scale. A bad layout (one resource for the whole company, or a resource per developer) is painful to undo. You also need to know the older **hub-based** model, because many organisations still run it, and how to migrate from it.

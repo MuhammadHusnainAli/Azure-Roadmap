@@ -1,7 +1,5 @@
 # Application Modernisation Patterns
 
-> Topic: 10 · Application Platform · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most organisations do not start on a blank page. They have monoliths, ageing .NET Framework and Java applications, mainframe-era batch jobs and hand-built integrations, and they want them to be cheaper, safer, faster to change, and ready for AI. Modernisation is a sequence of trade-offs: how much to change, in what order, and how to keep the business running meanwhile. Architects design the target and the path; consultants build the business case and plan; engineers do the work, increasingly with AI assistance.

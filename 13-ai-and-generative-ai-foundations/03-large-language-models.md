@@ -1,7 +1,5 @@
 # Large Language Models
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Large language models (LLMs) are the engine of chat assistants, RAG systems, copilots and agents. Using them well means understanding **tokens** (how you're billed and limited), **context windows** (how much the model can consider at once), **sampling parameters** (how deterministic or creative output is), **reasoning models** (which think before answering) and the **limitations** that drive almost every design decision in topics 16–23: hallucination, knowledge cut-offs, prompt injection and non-determinism.

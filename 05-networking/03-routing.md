@@ -1,7 +1,5 @@
 # Routing
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 NSGs decide whether a packet is allowed. Routing decides where it goes. Hub-and-spoke designs, forced tunnelling through a firewall, hybrid connectivity and network virtual appliances all depend on steering traffic with routes. Routing mistakes produce the hardest networking faults to diagnose: connections that hang, work in one direction only, or break when someone adds a peering.

@@ -1,7 +1,5 @@
 # Azure Managed Lustre
 
-> Topic: 08 · Storage · Tracks: E ○ A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Training a large model or running a big HPC simulation means hundreds of GPUs or CPU cores reading the same data at once and writing large checkpoints. Object storage is too slow per client for that, and ordinary file shares do not scale to that concurrency. **Azure Managed Lustre** provides a managed parallel file system that delivers very high aggregate throughput and low latency, so expensive compute is not left idle waiting for I/O. It is a niche service, but when it fits, it saves far more in GPU time than it costs.

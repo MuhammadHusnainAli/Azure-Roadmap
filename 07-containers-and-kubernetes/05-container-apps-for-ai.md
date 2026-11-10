@@ -1,7 +1,5 @@
 # Container Apps for AI
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Container Apps has become a primary host for AI workloads on Azure: chat back ends, agent services, MCP servers, retrieval pipelines and, with serverless GPUs, self-hosted model inference that scales to zero. It also provides **dynamic sessions**, isolated sandboxes in which agents can run model-generated code safely. For an AI engineer this is often the shortest path from a working prototype to a secure, scalable service.

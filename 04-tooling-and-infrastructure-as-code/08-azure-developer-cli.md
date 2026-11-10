@@ -1,7 +1,5 @@
 # Azure Developer CLI
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The Azure Developer CLI (`azd`) takes an application from a repository to running in Azure with one command: it provisions the infrastructure, builds the code, deploys it and wires the configuration together. Nearly every Microsoft AI sample and solution accelerator ships as an `azd` template, so it is the fastest way to stand up a working RAG app or agent to study, demo or adapt. For consultants, that is a credible proof of concept in an afternoon.

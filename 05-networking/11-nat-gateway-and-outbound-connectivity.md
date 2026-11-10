@@ -1,7 +1,5 @@
 # NAT Gateway and Outbound Connectivity
 
-> Topic: 05 · Networking · Tracks: E ● A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Outbound connectivity used to happen by accident in Azure. It no longer does: new virtual networks are private by default, so a workload that needs to reach the internet needs a designed path. Getting this wrong shows up as a deployment that cannot pull a container image, or, later and worse, as intermittent connection failures under load from SNAT port exhaustion. AI applications make many outbound calls and hit this more than most.

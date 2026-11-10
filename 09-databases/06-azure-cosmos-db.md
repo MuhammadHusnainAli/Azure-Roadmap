@@ -1,7 +1,5 @@
 # Azure Cosmos DB
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Cosmos DB is Azure's globally distributed, multi-model NoSQL database, with SLA-backed single-digit millisecond latency, elastic scale and multi-region writes. It powers large consumer applications and is the default store for chat history and agent state in many AI systems, including Foundry Agent Service's standard setup. Its power comes with a modelling discipline: partition keys and request units decide performance and cost, and a wrong choice is expensive to fix.

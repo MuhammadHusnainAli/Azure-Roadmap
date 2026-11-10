@@ -1,7 +1,5 @@
 # Shared Responsibility Model
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Most cloud security incidents are not failures of the provider. They are customer misconfigurations: a storage account left public, a key in source control, an over-privileged identity. The shared responsibility model tells you exactly which problems are yours. For AI workloads the model has an extra layer, and clients regularly assume Microsoft handles things (like what an agent is allowed to do) that it does not.

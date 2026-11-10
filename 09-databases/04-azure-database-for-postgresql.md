@@ -1,7 +1,5 @@
 # Azure Database for PostgreSQL
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 PostgreSQL has become the most popular open-source database for new applications, and for AI applications in particular, thanks to extensions such as pgvector. Azure Database for PostgreSQL flexible server provides managed PostgreSQL with high availability, backups, Entra authentication and Azure-specific AI extensions. For many AI engineers it is the simplest way to keep relational data, JSON and vectors in one place.

@@ -1,7 +1,5 @@
 # Embeddings and Vector Similarity
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Embeddings are how AI systems find things by **meaning** rather than by exact words. They power the retrieval step in RAG, semantic caching in the AI gateway, deduplication, clustering, recommendations and agent memory. Choices made here, such as which model, how many dimensions, which distance metric and which index algorithm, directly affect answer quality, latency and cost. Changing them later means re-embedding everything.
@@ -171,7 +169,7 @@ See topic 09 file 09 for database vector options and topic 17 for AI Search.
 
 ## References
 
-- [Understand embeddings in Azure OpenAI](https://learn.microsoft.com/azure/foundry/openai/concepts/understand-embeddings)
+- [Understand embeddings in Azure OpenAI](https://learn.microsoft.com/azure/foundry-classic/openai/concepts/understand-embeddings)
 - [Embeddings how-to](https://learn.microsoft.com/azure/foundry/openai/how-to/embeddings)
 - [Foundry Models sold by Azure: embeddings](https://learn.microsoft.com/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure#embeddings)
 - [Vector search in Azure AI Search](https://learn.microsoft.com/azure/search/vector-search-overview)

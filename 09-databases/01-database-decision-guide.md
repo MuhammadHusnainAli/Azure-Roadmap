@@ -1,7 +1,5 @@
 # Database Decision Guide
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Choosing a database is one of the most expensive decisions to reverse. A wrong choice shows up later as performance ceilings, runaway cost, painful migrations or missing features. Azure offers more than a dozen managed database options, several of which overlap. This guide gives a structured way to choose, so that engineers, architects and consultants reach the same answer for the same requirements.

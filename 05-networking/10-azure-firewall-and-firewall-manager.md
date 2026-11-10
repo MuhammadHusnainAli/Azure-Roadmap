@@ -1,7 +1,5 @@
 # Azure Firewall and Firewall Manager
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 NSGs filter by IP and port. Azure Firewall is the managed, stateful firewall that filters by **domain name**, inspects traffic, and gives one controlled, logged exit for a whole landing zone. For AI workloads it answers a question security teams always ask: "what can this agent or application reach on the internet, and how do we know?"

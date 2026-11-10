@@ -1,7 +1,5 @@
 # AKS Fundamentals
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Kubernetes Service (AKS) is Azure's managed Kubernetes. It is the platform of choice for organisations standardising on Kubernetes, running many teams' workloads on shared infrastructure, or needing Kubernetes-native tooling such as operators, service meshes and GitOps. It is also the most operationally demanding container option. Architects must be able to say when AKS is warranted and, when it is, design it so that upgrades, security and cost stay under control.

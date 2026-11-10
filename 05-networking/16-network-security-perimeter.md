@@ -1,7 +1,5 @@
 # Network Security Perimeter
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Private endpoints secure the path from *your network* to a PaaS service. They do not, by themselves, govern traffic *between* PaaS services, or give you one place to define and audit public access rules across dozens of resources. Network Security Perimeter fills that gap: a logical boundary drawn around PaaS resources, with central access rules and logs. It matters for AI because a RAG system is largely PaaS services calling each other (search to storage, search to model, model to key vault), outside any virtual network you own.

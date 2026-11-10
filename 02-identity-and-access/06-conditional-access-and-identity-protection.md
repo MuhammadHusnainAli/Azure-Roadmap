@@ -1,7 +1,5 @@
 # Conditional Access and Identity Protection
 
-> Topic: 02 · Identity and Access · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Conditional Access is the Zero Trust policy engine for Microsoft's cloud. It turns "verify explicitly" from a slogan into a rule: this user, on this device, from this place, with this risk level, gets this access under these conditions. Architects design the policy set; consultants are asked about it in every security review; and engineers meet it whenever a deployment script or an agent is blocked.

@@ -1,7 +1,5 @@
 # AKS Scaling and Cost
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Kubernetes makes it easy to waste money: pods request more than they use, nodes run half empty, non-production clusters run all weekend, and GPU nodes idle. It also makes it easy to fall over under load if scaling is misconfigured. Getting scaling and cost right in AKS is mostly about accurate resource requests and letting the right autoscaler do each job.

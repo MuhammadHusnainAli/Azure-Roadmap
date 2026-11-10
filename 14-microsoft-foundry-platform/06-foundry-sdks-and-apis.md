@@ -1,7 +1,5 @@
 # Foundry SDKs and APIs
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ○ C – · Status checked: 2026-11
-
 ## Why it matters
 
 Foundry exposes several endpoints and SDKs: the Foundry SDK, the OpenAI SDK, the Anthropic SDK, the Agent Framework and Foundry Tools SDKs. Picking the wrong one leads to missing features, confusing errors or extra latency. Engineers need to know which client to use for which job, how authentication works for each, and how the **OpenAI-compatible v1 API** and the **Responses API** fit in.

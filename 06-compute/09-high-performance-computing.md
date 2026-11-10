@@ -1,7 +1,5 @@
 # High Performance Computing
 
-> Topic: 06 · Compute · Tracks: E – A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 High performance computing is the simulation and modelling end of compute: crash tests, weather, drug discovery, seismic imaging, chip design, financial risk. It is a specialist field, and most readers of this roadmap will not build HPC clusters. It still earns a file for two reasons. Clients in engineering, energy, life sciences and finance will raise it. And large-scale AI training uses the same building blocks, so the vocabulary (InfiniBand, parallel file systems, schedulers) explains how big GPU clusters actually work.

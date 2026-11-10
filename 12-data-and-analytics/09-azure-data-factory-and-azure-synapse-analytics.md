@@ -1,7 +1,5 @@
 # Azure Data Factory and Azure Synapse Analytics
 
-> Topic: 12 · Data and Analytics · Tracks: E – A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Many organisations already run large estates on **Azure Data Factory (ADF)** and **Azure Synapse Analytics**. Microsoft's strategic analytics platform is now **Microsoft Fabric**, and most new investment lands there. That makes the most common consulting question here "should we migrate, when, and how?". Answering well means understanding what these services do, what maps cleanly to Fabric, what doesn't, and which migration tools exist, without overselling a "lift and shift" that isn't one.

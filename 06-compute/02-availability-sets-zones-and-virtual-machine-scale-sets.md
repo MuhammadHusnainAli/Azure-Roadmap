@@ -1,7 +1,5 @@
 # Availability Sets, Zones and Virtual Machine Scale Sets
 
-> Topic: 06 · Compute · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 A single virtual machine fails when its host fails, is rebooted for maintenance, and cannot grow with demand. Availability and scale on IaaS come from running several instances and spreading them across failure boundaries. The constructs in this file are also what AKS node pools, Batch pools and virtual desktops are built on, so they explain behaviour you will see far beyond plain VMs.

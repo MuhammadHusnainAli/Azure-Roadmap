@@ -1,7 +1,5 @@
 # Azure Service Map
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure has hundreds of services and several that overlap. Before learning any of them in depth you need a map: what categories exist, what the main service in each is, and roughly when you would pick it. This file is that map. Come back to it whenever a later topic mentions a service you don't recognise.

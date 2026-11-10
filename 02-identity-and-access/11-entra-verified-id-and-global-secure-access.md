@@ -1,7 +1,5 @@
 # Entra Verified ID and Global Secure Access
 
-> Topic: 02 · Identity and Access · Tracks: E – A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Two parts of the Entra family extend identity beyond sign-in. **Verified ID** answers "is this really the person, and is this claim about them true?" **Global Secure Access** answers "how do identities reach applications and the internet without a flat, trusted network?" Neither is day-one material for an AI engineer. Both come up in architecture and security conversations, and Global Secure Access now includes controls aimed specifically at how employees and agents use AI services.

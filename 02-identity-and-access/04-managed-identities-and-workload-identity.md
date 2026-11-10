@@ -1,7 +1,5 @@
 # Managed Identities and Workload Identity
 
-> Topic: 02 · Identity and Access · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 An AI application talks to a model endpoint, a search service, a storage account, a database and a key vault. Done the old way, that is five secrets to store, rotate and eventually leak. Done properly, it is zero: each service proves who it is with an identity Azure manages. "Keyless" is the expected standard for anything you build on Azure now, and this file is how you get there.

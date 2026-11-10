@@ -1,7 +1,5 @@
 # Regulatory Compliance
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Regulated clients do not ask "is Azure secure?" They ask "can we show our auditor that this workload meets our obligations?" Compliance questions decide regions, deployment types, encryption, logging, and sometimes whether an AI use case can go ahead at all. A consultant has to answer them precisely and without overclaiming; an architect has to turn obligations into controls.

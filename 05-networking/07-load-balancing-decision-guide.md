@@ -1,7 +1,5 @@
 # Load Balancing Decision Guide
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure has four load-balancing services plus several that overlap with them, and choosing between them is one of the most common architecture and exam questions. The choice follows from two properties of the traffic: is it HTTP or not, and is the scope one region or many. This file gives you the decision in a form you can apply in seconds, then the details that refine it.

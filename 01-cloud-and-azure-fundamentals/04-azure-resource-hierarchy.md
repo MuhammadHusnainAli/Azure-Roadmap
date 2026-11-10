@@ -1,7 +1,5 @@
 # Azure Resource Hierarchy
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Access, policy and cost in Azure all flow down a hierarchy. Get the hierarchy right and governance is mostly inheritance. Get it wrong and you spend years assigning permissions resource by resource. This file covers the building blocks; topic 03 covers how to design them for an enterprise.

@@ -1,7 +1,5 @@
 # Vector Search in Azure Databases
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Embeddings turn text, images and other data into vectors so that "similar meaning" becomes "nearby in space". Vector search underpins RAG, semantic search, recommendations, deduplication, semantic caching and agent memory. Nearly every Azure database now stores and searches vectors, and Azure AI Search does too. The question is no longer "which vector database?" but "where should these vectors live?", and the answer affects consistency, security, cost and retrieval quality.

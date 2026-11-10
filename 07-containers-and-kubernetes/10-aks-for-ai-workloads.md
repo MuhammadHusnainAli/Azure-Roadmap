@@ -1,7 +1,5 @@
 # AKS for AI Workloads
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 When an organisation decides to self-host models, fine-tune at scale or run many AI services on a shared platform, AKS is usually where it lands. Kubernetes brings scheduling, isolation and a large ecosystem of AI tooling (vLLM, KubeRay, NVIDIA operators, KAITO). It also brings GPU scarcity, large images, driver management and cost risk. This file covers how to run AI on AKS well, and repeats the question from [topic 06](../06-compute/07-gpu-and-ai-infrastructure.md): should you be self-hosting at all?

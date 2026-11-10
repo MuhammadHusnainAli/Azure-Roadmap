@@ -1,7 +1,5 @@
 # Azure SignalR, Web PubSub and Fluid Relay
 
-> Topic: 10 · Application Platform · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 Modern applications push data to users in real time: live dashboards, notifications, collaborative editing, multiplayer experiences and, above all for AI, **streaming model output token by token**. Holding thousands of persistent connections on your own app servers is hard to scale. Azure SignalR Service and Azure Web PubSub manage those connections for you; Azure Fluid Relay supports real-time collaborative data structures. Knowing when to use each, and when plain server-sent events are enough, saves both effort and cost.

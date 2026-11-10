@@ -1,7 +1,5 @@
 # Cloud Adoption Framework
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 The Microsoft Cloud Adoption Framework (CAF) is the shared vocabulary between Microsoft, partners and customers for how to adopt Azure. Clients and Microsoft account teams use its terms, assessments reference it, and partner funding programmes are organised around it. A consultant who can place a client's situation in CAF and name the next decision is immediately useful. An architect uses it to make sure the technical design sits on a sound organisational footing.

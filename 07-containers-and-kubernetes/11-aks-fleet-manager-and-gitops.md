@@ -1,7 +1,5 @@
 # AKS Fleet Manager and GitOps
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Organisations rarely end with one cluster. They have clusters per environment, per region, per business unit and per compliance zone. Upgrading twenty clusters by hand, or keeping their configuration consistent, does not scale. **Azure Kubernetes Fleet Manager** orchestrates upgrades and workload placement across clusters, and **GitOps** makes Git the source of truth for what runs in each cluster. Together they turn a cluster estate into something a small platform team can operate.

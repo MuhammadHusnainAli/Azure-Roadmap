@@ -1,7 +1,5 @@
 # Application Gateway and Web Application Firewall
 
-> Topic: 05 · Networking · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Application Gateway is the regional layer 7 entry point for web applications and APIs in a virtual network, and its Web Application Firewall is the standard defence against common web attacks. It appears in nearly every reference architecture for network-isolated workloads, including the baseline Foundry chat architecture, because it is the piece that lets traffic from outside reach private application hosts safely.

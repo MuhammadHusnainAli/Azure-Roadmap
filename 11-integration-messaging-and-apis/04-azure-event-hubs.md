@@ -1,7 +1,5 @@
 # Azure Event Hubs
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Event Hubs is Azure's managed event streaming platform: a partitioned, durable, append-only log that can take in millions of events per second and let many independent consumers read them at their own pace. It speaks the **Apache Kafka** protocol, so Kafka clients work unchanged. It can **Capture** streams to storage automatically, and it has a **schema registry**. For AI and data teams it's the front door for telemetry, clickstreams, logs, model and agent traces, and real-time analytics in Fabric, Stream Analytics and Azure Data Explorer.

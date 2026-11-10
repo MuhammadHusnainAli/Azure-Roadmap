@@ -1,7 +1,5 @@
 # Fabric Data Engineering and Data Factory
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Before data can feed reports, agents or RAG, someone has to ingest it, clean it and shape it. In Microsoft Fabric that work happens in two closely linked workloads. **Data Factory** does the ingestion and orchestration: pipelines, Copy jobs, Dataflows Gen2 and Airflow jobs. **Data Engineering** does the processing: lakehouses, Spark notebooks, Spark job definitions and environments. Architects need to know which tool fits which job. Consultants need to estimate how much capacity these workloads will consume.

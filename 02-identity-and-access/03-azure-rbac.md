@@ -1,7 +1,5 @@
 # Azure RBAC
 
-> Topic: 02 · Identity and Access · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure role-based access control decides who can do what to which resource. It is how you grant a developer access to one resource group, let an application read one storage container, and allow an agent to call one model deployment. Almost every "access denied" you will debug is an RBAC question, and almost every over-privileged environment got that way by assigning Contributor because it was quicker.

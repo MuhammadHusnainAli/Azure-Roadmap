@@ -1,7 +1,5 @@
 # Fabric IQ and Data Agents
 
-> Topic: 12 · Data and Analytics · Tracks: E ● A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Agents are only as good as the context they reason over. Documents give them policies and procedures; structured business data tells them what is actually happening (orders, shipments, customers, assets). **Fabric IQ** is Microsoft's layer for giving agents and people that business context, grounded in OneLake. It combines **semantic models** (trusted KPIs), **ontologies** (a shared, machine-understandable model of the business) and **graph**. **Fabric data agents** turn that context into natural-language Q&A that other agents (in Foundry, Copilot Studio and Microsoft 365 Copilot) can call. For AI architects this is how you build an agent that answers "why are cold-chain breaches up in the north region?" correctly and with permissions enforced.

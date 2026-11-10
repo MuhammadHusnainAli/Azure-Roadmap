@@ -1,7 +1,5 @@
 # Storage for AI Workloads
 
-> Topic: 08 · Storage · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 AI systems are data systems. A RAG application is only as good, and only as secure, as the documents it indexes. A fine-tuning job needs curated, versioned training data. Training runs need fast access to large datasets and safe storage for checkpoints. Foundry and Agent Service projects store files, threads and outputs. Designing that storage well determines retrieval quality, permission enforcement, reproducibility and cost. This file brings the rest of the topic together for AI.

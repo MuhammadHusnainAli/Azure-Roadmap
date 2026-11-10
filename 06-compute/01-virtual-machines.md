@@ -1,7 +1,5 @@
 # Virtual Machines
 
-> Topic: 06 · Compute · Tracks: E ○ A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The virtual machine is the base unit of cloud compute. AKS nodes, scale sets, Batch pools, virtual desktops and GPU clusters are all VMs underneath, so sizing, pricing and availability concepts learned here carry through the rest of the platform. Even if you never run an application directly on a VM, you will choose VM sizes for node pools and GPU workloads, and you will meet lifted-and-shifted VMs in most client estates.

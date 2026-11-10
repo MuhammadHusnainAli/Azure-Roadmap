@@ -1,7 +1,5 @@
 # Azure Resource Manager
 
-> Topic: 01 · Cloud and Azure Fundamentals · Tracks: E ● A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 Azure Resource Manager (ARM) is the single front door for creating, changing and deleting anything in Azure. The portal, the CLI, PowerShell, Bicep, Terraform and the SDKs are all clients of the same API. Once you understand ARM, error messages make sense, infrastructure as code stops being magic, and you can reason about why "Contributor" does not let someone read a blob.

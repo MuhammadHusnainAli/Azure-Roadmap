@@ -1,7 +1,5 @@
 # Azure API Center
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Large organisations don't know what APIs they have. APIs are spread across several API Management instances, other gateways, Functions, App Service and SaaS platforms, and now **MCP servers** and agents as well. Duplicates get built, insecure "shadow" APIs go unnoticed, and agent builders can't find the tools they're allowed to use. **Azure API Center** is a design-time **inventory, governance and discovery** service for all of these assets. API Management governs traffic at **runtime**; API Center governs the **catalogue**.

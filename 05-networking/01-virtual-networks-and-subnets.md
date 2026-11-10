@@ -1,7 +1,5 @@
 # Virtual Networks and Subnets
 
-> Topic: 05 · Networking · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 The virtual network is the private boundary everything else attaches to. Address planning is one of the few decisions in Azure that is painful to change later: an overlapping range blocks peering and hybrid connectivity, and an undersized subnet blocks a deployment. AI workloads consume more subnets than people expect, because private endpoints, application integration and agent runtimes each want their own.

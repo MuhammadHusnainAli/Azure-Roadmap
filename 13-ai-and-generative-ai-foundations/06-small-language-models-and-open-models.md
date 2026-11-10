@@ -1,7 +1,5 @@
 # Small Language Models and Open Models
 
-> Topic: 13 · AI and Generative AI Foundations · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Not every problem needs a frontier model in the cloud. **Small language models (SLMs)** such as Microsoft's **Phi** family can classify, extract, summarise and route at a fraction of the cost and latency, and they can run **on devices** (laptops, phones, factory PCs) where data must stay local or connectivity is poor. **Open-weight models** (Llama, Mistral, DeepSeek, gpt-oss, Phi and others) give you the weights, so you can fine-tune, self-host and control them. Architects and consultants have to weigh these options against hosted frontier models on cost, quality, privacy, control and operations.
@@ -74,7 +72,7 @@ A common pattern is a **cascade**: an SLM handles easy or classification request
 | Option | Where it runs | Billing | When |
 |---|---|---|---|
 | **Serverless / standard deployment** (models sold by Azure or partners) | Microsoft-managed | Per token | Simplest; no GPU management |
-| **Managed compute** (Foundry / Azure ML online endpoints) | Dedicated VMs (GPU) in your subscription's quota | Per VM hour | Models not offered serverless, custom or fine-tuned weights, isolation |
+| **Managed compute** (Foundry, preview) / Azure ML online endpoints | Dedicated GPU capacity | Per accelerator-hour (Foundry) / per VM hour (Azure ML) | Models not offered serverless, custom or fine-tuned weights, isolation |
 | **AKS / Container Apps with GPUs** (vLLM, KAITO) | Your clusters | Infrastructure cost | Full control, existing Kubernetes platform (topic 07) |
 | **Foundry Local** | User's device (Windows, macOS) | No cloud cost | Offline, private, low-latency on-device inference |
 | **Windows AI APIs / Windows ML** | Copilot+ PCs and Windows devices (NPU, GPU, CPU) | No cloud cost | Windows apps using built-in or bundled models |

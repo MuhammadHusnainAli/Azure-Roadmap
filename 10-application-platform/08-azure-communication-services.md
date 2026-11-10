@@ -1,7 +1,5 @@
 # Azure Communication Services
 
-> Topic: 10 · Application Platform · Tracks: E ○ A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Customers expect to reach businesses by chat, phone, SMS, email and video, and increasingly to talk to AI agents on those channels. Azure Communication Services (ACS) provides these channels as APIs on the same platform that runs Microsoft Teams. With **Call Automation** and real-time voice models, it is the main Azure building block for **voice agents** in contact centres and service lines. Engineers build on it; architects and consultants need to know what it can do and how it connects to Foundry.

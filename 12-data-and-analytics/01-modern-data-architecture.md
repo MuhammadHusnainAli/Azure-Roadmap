@@ -1,7 +1,5 @@
 # Modern Data Architecture
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Every serious AI conversation turns into a data conversation. RAG needs clean, current, permissioned content; agents need reliable structured data; and fine-tuning needs curated examples. Over the last decade the industry moved from separate data warehouses and data lakes to the **lakehouse**, organised in **medallion layers**, stored in **open table formats** (Delta Lake, Apache Iceberg), and increasingly owned in a **data mesh** of domain teams. Architects and consultants need this vocabulary to assess a client's data estate and to design on Microsoft Fabric or Azure Databricks.

@@ -1,7 +1,5 @@
 # Azure App Service
 
-> Topic: 10 · Application Platform · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure App Service is Azure's fully managed platform for web apps and APIs. It runs code (.NET, Java, Node.js, Python, PHP) or containers on Windows and Linux, with built-in scaling, deployment slots, TLS, authentication and monitoring. A large share of enterprise web workloads on Azure run on it, including many AI chat front ends and APIs. It is often the simplest host for a web application, and the easiest landing spot when modernising an IIS or Tomcat estate.

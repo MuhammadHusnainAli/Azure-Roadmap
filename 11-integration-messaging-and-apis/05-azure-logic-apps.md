@@ -1,7 +1,5 @@
 # Azure Logic Apps
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ○ A ● C ● · Status checked: 2026-11
-
 ## Why it matters
 
 Logic Apps is Azure's low-code integration and workflow platform. It has 1,400+ connectors for SaaS, Azure services and on-premises systems, a visual designer, durable run history, and enterprise B2B (EDI) support. It's how many organisations connect ERP, CRM, file drops, email and approvals without writing glue code. Logic Apps can now also run **agentic workflows**: an *agent loop* uses a model to choose which connector-based tools to call. That makes it a practical way to add AI to existing integration estates.
@@ -176,6 +174,6 @@ A Standard project contains `host.json`, `connections.json`, `parameters.json` a
 - [AI agentic workflows in Logic Apps](https://learn.microsoft.com/azure/logic-apps/agent-workflows-concepts)
 - [Create autonomous agentic workflows](https://learn.microsoft.com/azure/logic-apps/create-autonomous-agent-workflows)
 - [B2B enterprise integration overview](https://learn.microsoft.com/azure/logic-apps/logic-apps-enterprise-integration-overview)
-- [Built-in connectors](https://learn.microsoft.com/azure/logic-apps/connectors/built-in)
+- [Built-in connectors](https://learn.microsoft.com/azure/connectors/built-in)
 - [Logic Apps pricing model](https://learn.microsoft.com/azure/logic-apps/logic-apps-pricing)
 - [Secure access and data](https://learn.microsoft.com/azure/logic-apps/logic-apps-securing-a-logic-app)

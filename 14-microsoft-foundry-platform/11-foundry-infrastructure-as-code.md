@@ -1,7 +1,5 @@
 # Foundry Infrastructure as Code
 
-> Topic: 14 · Microsoft Foundry Platform · Tracks: E ● A ● C – · Status checked: 2026-11
-
 ## Why it matters
 
 Clicking through the portal is fine for a demo, but production AI platforms need repeatable environments (dev, test, prod), reviewed changes, policy compliance and fast disaster recovery. That means describing the Foundry resource, projects, model deployments, connections, networking and role assignments as code with **Bicep** or **Terraform**, deployed through pipelines with workload identity federation. Foundry's resource model is relatively new, so knowing the right resource types and the gaps between providers saves days of trial and error.

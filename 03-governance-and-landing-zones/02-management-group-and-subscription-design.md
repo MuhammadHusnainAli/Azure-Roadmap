@@ -1,7 +1,5 @@
 # Management Group and Subscription Design
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 The management group tree and the way you carve subscriptions decide how policy and access are inherited for years. A good structure makes governance mostly automatic. A poor one produces hundreds of exceptions and is painful to change once workloads have landed. This is one of the first diagrams an architect draws for a client.

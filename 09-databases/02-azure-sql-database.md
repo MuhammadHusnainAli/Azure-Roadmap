@@ -1,7 +1,5 @@
 # Azure SQL Database
 
-> Topic: 09 · Databases · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Azure SQL Database is Microsoft's fully managed relational database built on the latest SQL Server engine. It is the default relational choice on Azure for new applications and many modernised ones: patching, backups, high availability and much tuning are handled for you. It now also stores and searches vectors natively, calls models from T-SQL, and mirrors into Fabric, so it plays a growing role in AI applications that need relational data and retrieval together.

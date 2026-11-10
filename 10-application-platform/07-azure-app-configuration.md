@@ -1,7 +1,5 @@
 # Azure App Configuration
 
-> Topic: 10 · Application Platform · Tracks: E ● A ○ C – · Status checked: 2026-10
-
 ## Why it matters
 
 As applications grow into many services and environments, configuration scattered across app settings, environment variables and files becomes inconsistent and risky to change. Azure App Configuration centralises settings and feature flags, lets you change them without redeploying, and references secrets in Key Vault. For AI applications it also manages **AI configuration**: model deployments, prompts and parameters that teams want to tune or roll out gradually without shipping new code.

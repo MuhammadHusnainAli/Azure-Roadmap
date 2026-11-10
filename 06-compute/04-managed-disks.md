@@ -1,7 +1,5 @@
 # Managed Disks
 
-> Topic: 06 · Compute · Tracks: E ○ A ● C – · Status checked: 2026-10
-
 ## Why it matters
 
 Disks decide the performance of anything stateful on a VM, account for a large share of IaaS cost, and hold the data you most need to protect. Disk type, the VM's own throughput cap, caching and encryption are each a common source of performance complaints and audit findings. The same disks back AKS persistent volumes and database VMs.

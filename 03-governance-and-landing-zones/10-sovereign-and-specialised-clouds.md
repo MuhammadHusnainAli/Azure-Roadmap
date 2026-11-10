@@ -1,7 +1,5 @@
 # Sovereign and Specialised Clouds
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E – A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 "Sovereignty" has moved from a niche public-sector concern to a board-level question, particularly in Europe, and AI has sharpened it: organisations want to know who can access the data they send to a model and under which country's law. Architects and consultants need to know the options, from controls inside the public cloud to fully separate clouds, and what each costs in capability. Microsoft's offerings here are evolving quickly, so treat the specifics as a snapshot and verify before advising.

@@ -1,7 +1,5 @@
 # Dedicated Host and Confidential Computing
 
-> Topic: 06 · Compute · Tracks: E – A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Standard Azure VMs share physical servers with other customers, isolated by the hypervisor, and that is the right choice for nearly everything. Two requirements go further. Some organisations need the **physical server to themselves**, for licensing or compliance. Others need assurance that **nobody outside the workload, including the cloud operator, can read data while it is being processed**. The second is confidential computing, and it increasingly comes up in AI conversations about sensitive prompts, regulated data and multi-party analytics.

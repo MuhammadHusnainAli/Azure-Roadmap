@@ -1,7 +1,5 @@
 # DDoS Protection
 
-> Topic: 05 · Networking · Tracks: E – A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 A distributed denial-of-service attack tries to make a service unavailable by overwhelming it. Any internet-facing endpoint is a potential target, and attacks are cheap to launch. Azure absorbs a great deal automatically, but the default protection is tuned to protect the platform, not your particular application. Architects need to know what is included, what the paid tiers add, and why AI endpoints have an extra kind of exposure that DDoS products do not cover.

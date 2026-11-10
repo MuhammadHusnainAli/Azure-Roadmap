@@ -1,7 +1,5 @@
 # Azure Verified Modules
 
-> Topic: 04 · Tooling and Infrastructure as Code · Tracks: E ● A ○ C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Writing a production-grade storage account is not one resource. It is the account plus private endpoints, diagnostic settings, role assignments, a lock, customer-managed keys and tags, all wired correctly. Every team used to write its own version. Azure Verified Modules (AVM) is Microsoft's single, supported library of such modules for both Bicep and Terraform. Using it means starting from a secure, consistent baseline, and it is what the current landing zone and AI accelerators are built from.

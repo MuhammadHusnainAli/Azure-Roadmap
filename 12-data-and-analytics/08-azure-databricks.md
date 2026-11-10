@@ -1,7 +1,5 @@
 # Azure Databricks
 
-> Topic: 12 · Data and Analytics · Tracks: E ○ A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Azure Databricks is a first-party Azure service, jointly developed by Microsoft and Databricks, built on Apache Spark and Delta Lake. Many enterprises run their most demanding data engineering, data science and ML workloads on it, and it has strong governance (**Unity Catalog**), declarative pipelines (**Lakeflow**) and a full AI stack (**Mosaic AI**). Architects regularly design estates where Databricks and Fabric coexist, and AI engineers need to connect Databricks data, models and Genie spaces to Foundry agents.

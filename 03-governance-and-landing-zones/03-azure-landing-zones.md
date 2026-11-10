@@ -1,7 +1,5 @@
 # Azure Landing Zones
 
-> Topic: 03 · Governance and Landing Zones · Tracks: E ○ A ● C ● · Status checked: 2026-10
-
 ## Why it matters
 
 An Azure landing zone is Microsoft's reference architecture for a governed, secure, scalable multi-subscription environment. It is the recommended starting point for any organisation running more than a handful of workloads, and it is what "being ready for AI at scale" means in infrastructure terms. Architects design and tailor it; consultants assess clients against it; engineers deploy workloads into it and need to understand the guardrails they meet.

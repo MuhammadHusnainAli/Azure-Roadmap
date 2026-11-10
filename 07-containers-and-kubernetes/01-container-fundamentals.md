@@ -1,7 +1,5 @@
 # Container Fundamentals
 
-> Topic: 07 · Containers and Kubernetes · Tracks: E ● A ● C ○ · Status checked: 2026-10
-
 ## Why it matters
 
 Almost every modern Azure host runs containers: Container Apps, AKS, App Service, Functions, Container Instances, Azure Machine Learning endpoints and Foundry hosted agents. A container image is the unit you build, scan, sign, store and deploy. Engineers who build good images ship faster and more securely; architects who understand images can reason about cold starts, supply-chain risk and portability.

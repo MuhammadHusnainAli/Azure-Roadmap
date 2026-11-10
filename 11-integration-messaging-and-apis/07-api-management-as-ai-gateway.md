@@ -1,7 +1,5 @@
 # API Management as AI Gateway
 
-> Topic: 11 · Integration, Messaging and APIs · Tracks: E ● A ● C ○ · Status checked: 2026-11
-
 ## Why it matters
 
 Once more than one application calls a model, a few problems appear together. One app uses up the whole tokens-per-minute (TPM) quota, keys get shared, nobody knows which team spent what, a regional deployment throttles with 429s, and agents start calling tools (MCP servers) that nobody governs. The **AI gateway** in Azure API Management deals with these centrally. It applies token-based rate limits, load balancing and circuit breaking across model deployments, semantic caching, token metrics, content safety, managed-identity authentication, and the ability to expose and govern **MCP servers** and **A2A agent APIs**. It's the standard "AI hub gateway" pattern in Microsoft reference architectures.
@@ -59,7 +57,7 @@ Apps / agents ──(Entra token + subscription key)──► APIM AI gateway
 
 ### 1. Import a Foundry model API
 
-In the portal: **APIs → Add API → Microsoft Foundry** (or **Language model API** for OpenAI-compatible endpoints). The wizard creates the API and a backend, configures **managed identity** authentication (`https://cognitiveservices.azure.com`), and can pre-add token limit and token metric policies. Grant the APIM identity the **Cognitive Services User** role (or **Cognitive Services OpenAI User** for Azure OpenAI only) on the Foundry resource.
+In the portal: **APIs → Add API → Microsoft Foundry** (or **Language model API** for OpenAI-compatible endpoints). The wizard creates the API and a backend, configures **managed identity** authentication (`https://cognitiveservices.azure.com`), and can pre-add token limit and token metric policies. Grant the APIM managed identity an inference role on the target resource: **Foundry User** (formerly *Azure AI User*) on a Foundry resource, or **Cognitive Services OpenAI User** on a standalone Azure OpenAI resource. The APIM backend documentation also cites **Cognitive Services User**, so follow the current role guidance in topic 14.
 
 ### 2. Token limits per consumer
 
