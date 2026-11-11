@@ -27,7 +27,22 @@ It covers the whole Azure platform as it stands in **October 2026**, with the de
 > | [13 · AI and Generative AI Foundations](13-ai-and-generative-ai-foundations/README.md) | Written (9 of 9 subtopics) |
 > | [14 · Microsoft Foundry Platform](14-microsoft-foundry-platform/README.md) | Written (11 of 11 subtopics) |
 > | [15 · Foundry Models and Azure OpenAI](15-foundry-models-and-azure-openai/README.md) | Written (15 of 15 subtopics) |
-> | 16 – 38 | Not started |
+> | [16 · Prompt Engineering and Model Customisation](16-prompt-engineering-and-model-customisation/README.md) | Written (8 of 8 subtopics) |
+> | [17 · Retrieval-Augmented Generation and Knowledge](17-rag-and-knowledge/README.md) | Written (13 of 13 subtopics) |
+> | [18 · Agents with Foundry Agent Service](18-agents-with-foundry-agent-service/README.md) | Written (14 of 14 subtopics) |
+> | [19 · Agent Frameworks and Protocols](19-agent-frameworks-and-protocols/README.md) | Written (9 of 9 subtopics) |
+> | [20 · Foundry Tools](20-foundry-tools/README.md) | Written (11 of 11 subtopics) |
+> | [21 · Azure Machine Learning and MLOps](21-azure-machine-learning-and-mlops/README.md) | Written (10 of 10 subtopics) |
+> | [22 · Evaluation, Observability and GenAIOps](22-evaluation-observability-and-genaiops/README.md) | Written (10 of 10 subtopics) |
+> | [23 · Responsible AI, AI Security and Governance](23-responsible-ai-security-and-governance/README.md) | Written (10 of 10 subtopics) |
+> | [24 · Copilot, Low-Code Agents and Azure AI Assistants](24-copilot-and-low-code-agents/README.md) | Written (11 of 11 subtopics) |
+> | [25 · Security](25-security/README.md) | Written (12 of 12 subtopics) |
+> | [26 · Monitoring and Observability](26-monitoring-and-observability/README.md) | Written (10 of 10 subtopics) |
+> | [27 · DevOps and Platform Engineering](27-devops-and-platform-engineering/README.md) | Written (10 of 10 subtopics) |
+> | [28 · Resiliency, Backup and Disaster Recovery](28-resiliency-backup-and-disaster-recovery/README.md) | Written (8 of 8 subtopics) |
+> | [29 · Cost Management and FinOps](29-cost-management-and-finops/README.md) | Written (8 of 8 subtopics) |
+> | [30 · Migration and Modernisation](30-migration-and-modernisation/README.md) | Written (8 of 8 subtopics) |
+> | 31 – 38 | Not started |
 
 ---
 
