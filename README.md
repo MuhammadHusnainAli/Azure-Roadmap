@@ -8,7 +8,7 @@ A complete, structured learning roadmap for Microsoft Azure, built for three rol
 
 It covers the whole Azure platform as it stands in **October 2026**, with the deepest coverage on AI: Microsoft Foundry, Foundry Models, Azure AI Search and Foundry IQ, Foundry Agent Service, agent frameworks and protocols, evaluation, and AI governance.
 
-> **Status:** the topic tree is defined in [Roadmap.md](Roadmap.md). Topic folders are being written one at a time.
+> **Status:** the topic tree is defined in [Roadmap.md](Roadmap.md). All 38 topic folders are written.
 >
 > | Topic | State |
 > |---|---|
@@ -42,7 +42,14 @@ It covers the whole Azure platform as it stands in **October 2026**, with the de
 > | [28 · Resiliency, Backup and Disaster Recovery](28-resiliency-backup-and-disaster-recovery/README.md) | Written (8 of 8 subtopics) |
 > | [29 · Cost Management and FinOps](29-cost-management-and-finops/README.md) | Written (8 of 8 subtopics) |
 > | [30 · Migration and Modernisation](30-migration-and-modernisation/README.md) | Written (8 of 8 subtopics) |
-> | 31 – 38 | Not started |
+> | [31 · Hybrid, Multicloud and Edge](31-hybrid-multicloud-and-edge/README.md) | Written (8 of 8 subtopics) |
+> | [32 · IoT, Industry and Specialised Services](32-iot-industry-and-specialised-services/README.md) | Written (8 of 8 subtopics) |
+> | [33 · Solution Architecture](33-solution-architecture/README.md) | Written (10 of 10 subtopics) |
+> | [34 · AI Solution Architecture](34-ai-solution-architecture/README.md) | Written (12 of 12 subtopics) |
+> | [35 · Consulting Practice](35-consulting-practice/README.md) | Written (11 of 11 subtopics) |
+> | [36 · Certifications and Career](36-certifications-and-career/README.md) | Written (11 of 11 subtopics) |
+> | [37 · Capstone Projects](37-capstone-projects/README.md) | Written (10 of 10 subtopics) |
+> | [38 · Staying Current and Legacy Services](38-staying-current-and-legacy-services/README.md) | Written (7 of 7 subtopics) |
 
 ---
 
